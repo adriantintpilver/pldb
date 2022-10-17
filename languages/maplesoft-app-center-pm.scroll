@@ -9,7 +9,7 @@ paragraph
  maplesoft-app-center-pm is a <a href="../lists/languages.html?filter=packageManager">package manager</a>.
 
 kpiTable
- #3146 on PLDB
+ #3194 on PLDB
 
 
 
@@ -49,4 +49,4 @@ html
 
 
 
-keyboardNav lunar.html maven-pm.html
+keyboardNav lunar.html mascara.html

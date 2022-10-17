@@ -8,7 +8,7 @@
  
  Generally you don't want to edit it by hand.
 
- Scroll v34.0.3
+ Scroll v35.1.2
 
 -->
 <html lang="en-US">
@@ -17,7 +17,7 @@
   <title>Features - PLDB</title>
   <meta name="viewport" content="width=device-width,initial-scale=1"></meta>
   <meta name="description" content="PLDB: a Programming Language Database. Build the next great programming language."></meta>
-  <meta name="generator" content="Scroll v34.0.3"></meta>
+  <meta name="generator" content="Scroll v35.1.2"></meta>
   <meta property="og:title" content="Features"></meta>
   <meta property="og:description" content=""></meta>
   <meta property="og:image" content=""></meta>
@@ -26,7 +26,7 @@
  <body>
   <link rel="stylesheet" type="text/css" href="../scroll.css"></link>
   <link rel="stylesheet" type="text/css" href="../style.css"></link>
-  <script src="../libs.js"></script>
+  <script src="../libs/combined.js"></script>
   <script src="../search.js"></script>
   <div class="pldbHeader">
    <a href="../index.html" class="logoFont">PLDB</a>
@@ -119,68 +119,68 @@
 </tr></thead>
 <tbody><tr><td><a href="../languages/comment-feature.html">Comments</a></td>
 <td># Hello PLDB</td>
-<td>609</td>
+<td>612</td>
 <td>3</td>
 <td>100%</td>
 </tr>
 <tr><td><a href="../languages/line-comments-feature.html">Line Comments</a></td>
 <td># Hello PLDB</td>
-<td>513</td>
+<td>516</td>
 <td>21</td>
 <td>96%</td>
 </tr>
 <tr><td><a href="../languages/strings-feature.html">Strings</a></td>
 <td>"Hello PLDB"</td>
-<td>351</td>
+<td>353</td>
 <td>0</td>
 <td>100%</td>
 </tr>
 <tr><td><a href="../languages/print-debugging-feature.html">Print() Debugging</a></td>
 <td>print "Hello PLDB"</td>
-<td>311</td>
+<td>312</td>
 <td>0</td>
 <td>100%</td>
 </tr>
 <tr><td><a href="../languages/multiline-comments-feature.html">MultiLine Comments</a></td>
 <td>/* Hello PLDB */</td>
-<td>213</td>
+<td>214</td>
 <td>18</td>
 <td>92%</td>
 </tr>
 <tr><td><a href="../languages/integers-feature.html">Integers</a></td>
 <td>80766866</td>
-<td>144</td>
+<td>146</td>
 <td>0</td>
 <td>100%</td>
 </tr>
 <tr><td><a href="../languages/floats-feature.html">Floats</a></td>
 <td>80766866.0</td>
-<td>125</td>
+<td>126</td>
 <td>0</td>
 <td>100%</td>
 </tr>
 <tr><td><a href="../languages/booleans-feature.html">Booleans</a></td>
 <td>pldb = true</td>
-<td>104</td>
+<td>106</td>
 <td>3</td>
 <td>97%</td>
 </tr>
 <tr><td><a href="../languages/hexadecimals-feature.html">Hexadecimals</a></td>
 <td>0x4D06792</td>
-<td>101</td>
+<td>102</td>
 <td>0</td>
 <td>100%</td>
 </tr>
 <tr><td><a href="../languages/conditionals-feature.html">Conditionals</a></td>
 <td>if (isTrue) printPldb()</td>
-<td>64</td>
+<td>65</td>
 <td>3</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/semantic-indentation-feature.html">Semantic Indentation</a></td>
 <td>line0 if true line1  print "Hello PLDB"</td>
 <td>57</td>
-<td>516</td>
+<td>518</td>
 <td>10%</td>
 </tr>
 <tr><td><a href="../languages/octals-feature.html">Octals</a></td>
@@ -189,16 +189,16 @@
 <td>0</td>
 <td>-</td>
 </tr>
+<tr><td><a href="../languages/while-loops-feature.html">While Loops</a></td>
+<td>while (pldb.pop()) loop()</td>
+<td>44</td>
+<td>1</td>
+<td>-</td>
+</tr>
 <tr><td><a href="../languages/binary-numbers-feature.html">Binary Literals</a></td>
 <td>0b100110100000110011110010010</td>
 <td>44</td>
 <td>0</td>
-<td>-</td>
-</tr>
-<tr><td><a href="../languages/while-loops-feature.html">While Loops</a></td>
-<td>while (pldb.pop()) loop()</td>
-<td>43</td>
-<td>1</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/assignment-feature.html">Assignment</a></td>
@@ -209,7 +209,7 @@
 </tr>
 <tr><td><a href="../languages/file-imports-feature.html">File Imports</a></td>
 <td>import pldb</td>
-<td>36</td>
+<td>37</td>
 <td>2</td>
 <td>-</td>
 </tr>
@@ -227,13 +227,13 @@
 </tr>
 <tr><td><a href="../languages/classes-feature.html">Classes</a></td>
 <td>class PLDBFile {}</td>
-<td>27</td>
+<td>28</td>
 <td>0</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/switch-statements-feature.html">Switch Statements</a></td>
 <td>switch animal: case dog-buy; case cat-sell;</td>
-<td>22</td>
+<td>23</td>
 <td>0</td>
 <td>-</td>
 </tr>
@@ -249,28 +249,34 @@
 <td>0</td>
 <td>-</td>
 </tr>
+<tr><td><a href="../languages/pointers-feature.html">Pointers</a></td>
+<td>int *pldb</td>
+<td>18</td>
+<td>4</td>
+<td>-</td>
+</tr>
 <tr><td><a href="../languages/directives-feature.html">Directives</a></td>
 <td>use strict;</td>
 <td>18</td>
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/pointers-feature.html">Pointers</a></td>
-<td>int *pldb</td>
-<td>17</td>
-<td>4</td>
+<tr><td><a href="../languages/inheritance-feature.html">Inheritance</a></td>
+<td>class PLDBFile extends File</td>
+<td>16</td>
+<td>0</td>
+<td>-</td>
+</tr>
+<tr><td><a href="../languages/garbage-collection-feature.html">Garbage Collection</a></td>
+<td>var iDontNeedToFreeThis</td>
+<td>16</td>
+<td>7</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/case-sensitivity-feature.html">Case Sensitivity</a></td>
 <td>pldb != PLDB</td>
 <td>16</td>
 <td>8</td>
-<td>-</td>
-</tr>
-<tr><td><a href="../languages/garbage-collection-feature.html">Garbage Collection</a></td>
-<td>var iDontNeedToFreeThis</td>
-<td>15</td>
-<td>6</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/access-modifiers-feature.html">Access Modifiers</a></td>
@@ -297,15 +303,15 @@
 <td>3</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/inheritance-feature.html">Inheritance</a></td>
-<td>class PLDBFile extends File</td>
+<tr><td><a href="../languages/constructor-feature.html">Constructors</a></td>
+<td>PLDBFile { constructor() {} }</td>
 <td>13</td>
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/constructor-feature.html">Constructors</a></td>
-<td>PLDBFile { constructor() {} }</td>
-<td>12</td>
+<tr><td><a href="../languages/lists-feature.html">Lists</a></td>
+<td>[2, 3, 10]</td>
+<td>11</td>
 <td>0</td>
 <td>-</td>
 </tr>
@@ -315,9 +321,9 @@
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/lists-feature.html">Lists</a></td>
-<td>[2, 3, 10]</td>
-<td>10</td>
+<tr><td><a href="../languages/static-typing-feature.html">Static Typing</a></td>
+<td>int pldbRank = 100</td>
+<td>8</td>
 <td>0</td>
 <td>-</td>
 </tr>
@@ -327,28 +333,28 @@
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/static-typing-feature.html">Static Typing</a></td>
-<td>int pldbRank = 100</td>
-<td>7</td>
-<td>0</td>
-<td>-</td>
-</tr>
 <tr><td><a href="../languages/regular-expressions-syntax-sugar-feature.html">Regular Expression Syntax Sugar</a></td>
 <td>/pldb/</td>
-<td>7</td>
+<td>8</td>
 <td>4</td>
+<td>-</td>
+</tr>
+<tr><td><a href="../languages/multiline-strings-feature.html">Multiline Strings</a></td>
+<td>hello = """Hello\nPLDB"""</td>
+<td>8</td>
+<td>1</td>
+<td>-</td>
+</tr>
+<tr><td><a href="../languages/bitwise-operaters-feature.html">Bitwise Operators</a></td>
+<td>3 == (2 &#124; 1)</td>
+<td>8</td>
+<td>0</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/pattern-matching-feature.html">Pattern Matching</a></td>
 <td>fib 0 = 1; fib 1 = 1</td>
 <td>7</td>
 <td>0</td>
-<td>-</td>
-</tr>
-<tr><td><a href="../languages/multiline-strings-feature.html">Multiline Strings</a></td>
-<td>hello = """Hello\nPLDB"""</td>
-<td>7</td>
-<td>1</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/homoiconic-feature.html">Homoiconicity</a></td>
@@ -363,14 +369,14 @@
 <td>3</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/bitwise-operaters-feature.html">Bitwise Operators</a></td>
-<td>3 == (2 &#124; 1)</td>
-<td>7</td>
+<tr><td><a href="../languages/threads-feature.html">Threads</a></td>
+<td>thread1(); thread2();</td>
+<td>6</td>
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/threads-feature.html">Threads</a></td>
-<td>thread1(); thread2();</td>
+<tr><td><a href="../languages/namespace-feature.html">Namespaces</a></td>
+<td>namespace PLDB {}</td>
 <td>6</td>
 <td>0</td>
 <td>-</td>
@@ -397,6 +403,12 @@
 <td>interface PLDBFile</td>
 <td>6</td>
 <td>0</td>
+<td>-</td>
+</tr>
+<tr><td><a href="../languages/increment-and-decrement-operators-feature.html">Increment and decrement operators</a></td>
+<td>i++</td>
+<td>6</td>
+<td>1</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/generics-feature.html">Generics</a></td>
@@ -441,12 +453,6 @@
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/namespace-feature.html">Namespaces</a></td>
-<td>namespace PLDB {}</td>
-<td>5</td>
-<td>0</td>
-<td>-</td>
-</tr>
 <tr><td><a href="../languages/maps-feature.html">Maps</a></td>
 <td>{name: "PLDB"}</td>
 <td>5</td>
@@ -457,12 +463,6 @@
 <td>1 + 2</td>
 <td>5</td>
 <td>0</td>
-<td>-</td>
-</tr>
-<tr><td><a href="../languages/increment-and-decrement-operators-feature.html">Increment and decrement operators</a></td>
-<td>i++</td>
-<td>5</td>
-<td>1</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/disk-output-feature.html">Disk Output</a></td>
@@ -480,12 +480,6 @@
 <tr><td><a href="../languages/anonymous-functions-feature.html">Anonymous Functions</a></td>
 <td>() => printPldb()</td>
 <td>5</td>
-<td>0</td>
-<td>-</td>
-</tr>
-<tr><td><a href="../languages/unicode-identifiers-feature.html">Unicode Identifers</a></td>
-<td>δ = 0.00001</td>
-<td>4</td>
 <td>0</td>
 <td>-</td>
 </tr>
@@ -519,6 +513,12 @@
 <td>2</td>
 <td>-</td>
 </tr>
+<tr><td><a href="../languages/manual-memory-management-feature.html">Manual Memory Management</a></td>
+<td>malloc(4);</td>
+<td>4</td>
+<td>0</td>
+<td>-</td>
+</tr>
 <tr><td><a href="../languages/gotos-feature.html">Gotos</a></td>
 <td>goto 10</td>
 <td>4</td>
@@ -543,6 +543,12 @@
 <td>2</td>
 <td>-</td>
 </tr>
+<tr><td><a href="../languages/unicode-identifiers-feature.html">Unicode Identifers</a></td>
+<td>δ = 0.00001</td>
+<td>3</td>
+<td>0</td>
+<td>-</td>
+</tr>
 <tr><td><a href="../languages/templates-feature.html">Templates</a></td>
 <td>template TCopy(T) {}</td>
 <td>3</td>
@@ -557,6 +563,12 @@
 </tr>
 <tr><td><a href="../languages/structs-feature.html">Structs</a></td>
 <td>struct pldbFile { int rank; char *title; };</td>
+<td>3</td>
+<td>0</td>
+<td>-</td>
+</tr>
+<tr><td><a href="../languages/reference-feature.html">References</a></td>
+<td>fn(objPointer)</td>
 <td>3</td>
 <td>0</td>
 <td>-</td>
@@ -579,10 +591,10 @@
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/manual-memory-management-feature.html">Manual Memory Management</a></td>
-<td>malloc(4);</td>
+<tr><td><a href="../languages/function-overloading-feature.html">Function Overloading</a></td>
+<td>add(string: str, string2: str)</td>
 <td>3</td>
-<td>0</td>
+<td>3</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/duck-typing-feature.html">Duck Typing</a></td>
@@ -651,12 +663,6 @@
 <td>0</td>
 <td>-</td>
 </tr>
-<tr><td><a href="../languages/reference-feature.html">References</a></td>
-<td>fn(objPointer)</td>
-<td>2</td>
-<td>0</td>
-<td>-</td>
-</tr>
 <tr><td><a href="../languages/methods-feature.html">Methods</a></td>
 <td>pldbFile.downloadWebsite()</td>
 <td>2</td>
@@ -679,12 +685,6 @@
 <td>pldb100 = "OK" // 100pldb = "ERROR"</td>
 <td>2</td>
 <td>0</td>
-<td>-</td>
-</tr>
-<tr><td><a href="../languages/function-overloading-feature.html">Function Overloading</a></td>
-<td>add(string: str, string2: str)</td>
-<td>2</td>
-<td>3</td>
 <td>-</td>
 </tr>
 <tr><td><a href="../languages/first-class-functions-feature.html">First-Class Functions</a></td>
@@ -844,8 +844,8 @@
   </script><p class="scrollFileViewSourceUrlComponent"><a href="https://github.com/breck7/pldb/blob/main/site/lists/features.scroll">View source</a></p></div>
   <div class="pldbFooter">
    <a href="../index.html" class="logoFont">PLDB</a>
-   <span>- Build the next great programming language · <a title="This page was built in 2022 from commit b31a768bc9e4e114e6fb494c8f2031b1a904101d" href="https://github.com/breck7/pldb/commit/b31a768bc9e4e114e6fb494c8f2031b1a904101d">v2022</a> · </span>
-   <a href="../pages/about.html">Day 33</a>
+   <span>- Build the next great programming language · <a title="This page was built in 2022 from commit 091f8b472bad2d3c0e05efe38a0c5cfc20b87662" href="https://github.com/breck7/pldb/commit/091f8b472bad2d3c0e05efe38a0c5cfc20b87662">v2022</a> · </span>
+   <a href="../pages/about.html">Day 50</a>
    <span>·</span>
    <a href="../docs/csv.html">Docs</a>
    <span>·</span>

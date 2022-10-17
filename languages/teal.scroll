@@ -6,10 +6,11 @@ htmlTitle teal - Pl
 viewSourceUrl https://github.com/breck7/pldb/blob/main/database/things/teal.pldb
 
 paragraph
- teal is a <a href="../lists/languages.html?filter=pl">pl</a>.
+ teal is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=1987">1987</a>.
 
 kpiTable
- #2580 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 3206 Links: 949">on PLDB</span>
+ #2716 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 3116 Links: 952">on PLDB</span>
+ 35 Years Old
  0 <span title="Books about or leveraging teal">Books</span>
  0 <span title="Academic publications about or leveraging teal">Papers</span>
 
@@ -52,4 +53,4 @@ html
 
 
 
-keyboardNav stx.html texti.html
+keyboardNav tab.html underlay.html

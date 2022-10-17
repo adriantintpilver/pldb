@@ -9,7 +9,7 @@ paragraph
  Pursuit PureScript Package Repository is a <a href="../lists/languages.html?filter=packageManager">package manager</a>.
 
 kpiTable
- #3151 on PLDB
+ #3201 on PLDB
 
 
 
@@ -48,4 +48,4 @@ html
 
 
 
-keyboardNav piccola.html pyke.html
+keyboardNav plush.html pyke.html

@@ -31,7 +31,7 @@ paragraph
  Languages <b>without</b> Regular Expression Syntax Sugar include <a href="c.html">C</a>, <a href="python.html">Python</a>, <a href="cpp.html">C++</a>, <a href="x.html">Jule</a>
 
 paragraph
- Languages <b>with</b> Regular Expression Syntax Sugar include <a href="javascript.html">JavaScript</a>, <a href="perl.html">Perl</a>, <a href="ruby.html">Ruby</a>, <a href="elixir.html">Elixir</a>, <a href="dart.html">Dart</a>, <a href="coffeescript.html">CoffeeScript</a>, <a href="mips.html">MIPS architecture</a>
+ Languages <b>with</b> Regular Expression Syntax Sugar include <a href="javascript.html">JavaScript</a>, <a href="perl.html">Perl</a>, <a href="ruby.html">Ruby</a>, <a href="elixir.html">Elixir</a>, <a href="dart.html">Dart</a>, <a href="coffeescript.html">CoffeeScript</a>, <a href="mips.html">MIPS architecture</a>, <a href="jspp.html">JS++</a>
 
 exampleCodeHeader Example from <a href="javascript.html">JavaScript</a>:
 

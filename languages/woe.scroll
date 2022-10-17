@@ -9,7 +9,7 @@ paragraph
  woe is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2009">2009</a>.
 
 kpiTable
- #2239 <span title="TotalRank: 2792 Jobs: 62 Users: 2127 Facts: 1781 Links: 949">on PLDB</span>
+ #2353 <span title="TotalRank: 2920 Jobs: 101 Users: 2247 Facts: 1867 Links: 952">on PLDB</span>
  13 Years Old
  0 <span title="Books about or leveraging woe">Books</span>
  0 <span title="Academic publications about or leveraging woe">Papers</span>
@@ -55,4 +55,4 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Woe – A concatenative language inspired by Joy|https://news.ycombinator.com/item?id=16422971|02/20/2018|3|2
 
-keyboardNav baby-modula-3.html rocket.html
+keyboardNav latte-js.html rocket.html

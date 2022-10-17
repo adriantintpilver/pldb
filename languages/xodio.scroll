@@ -9,7 +9,7 @@ paragraph
  xodio is a <a href="../lists/languages.html?filter=visual">visual</a> created in <a href="../lists/languages.html?filter=2015">2015</a> by <a href="../lists/creators.html#Victor_Nakoryakov">Victor Nakoryakov</a>.
 
 kpiTable
- #967 <span title="TotalRank: 1475 Jobs: 62 Users: 464 Facts: 1368 Links: 949">on PLDB</span>
+ #997 <span title="TotalRank: 1541 Jobs: 101 Users: 488 Facts: 1418 Links: 952">on PLDB</span>
  7 Years Old
  1.1k <span title="Crude user estimate from a linear model.">Users</span>
  0 <span title="Books about or leveraging xodio">Books</span>
@@ -19,6 +19,7 @@ kpiTable
 
 
 
+openGraphImage image
 image ../screenshots/xodio.png
  caption A screenshot of the <a href="../lists/languages.html?filter=visual">visual language</a> xodio.
 
@@ -55,4 +56,4 @@ html
 
 
 
-keyboardNav hamler.html smpl.html
+keyboardNav hamler.html algo.html

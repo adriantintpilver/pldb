@@ -9,7 +9,7 @@ paragraph
  Entropy is an <a href="../lists/languages.html?filter=esolang">esolang</a> created in <a href="../lists/languages.html?filter=2021">2021</a> by <a href="../lists/creators.html#Daniel_Temkin">Daniel Temkin</a>.
 
 kpiTable
- #2328 <span title="TotalRank: 2949 Jobs: 62 Users: 2199 Facts: 1938 Links: 949">on PLDB</span>
+ #2463 <span title="TotalRank: 3102 Jobs: 101 Users: 2330 Facts: 2049 Links: 952">on PLDB</span>
  1 Years Old
  0 <span title="Books about or leveraging Entropy">Books</span>
  0 <span title="Academic publications about or leveraging Entropy">Papers</span>
@@ -58,4 +58,4 @@ code
 
 
 
-keyboardNav croc.html loom.html
+keyboardNav bel-lang.html loom.html

@@ -28,7 +28,7 @@ html
  <br>
 
 paragraph
- Languages <b>with</b> Manual Memory Management include <a href="c.html">C</a>, <a href="cpp.html">C++</a>, <a href="x.html">Jule</a>
+ Languages <b>with</b> Manual Memory Management include <a href="c.html">C</a>, <a href="cpp.html">C++</a>, <a href="x.html">Jule</a>, <a href="dale.html">Dale</a>
 
 exampleCodeHeader Example from <a href="c.html">C</a>:
 
@@ -70,4 +70,4 @@ code
 
 
 
-keyboardNav macros-feature.html map-functions-feature.html
+keyboardNav lazy-evaluation-feature.html method-chaining-feature.html

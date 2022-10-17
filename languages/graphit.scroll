@@ -9,7 +9,7 @@ paragraph
  graphit is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2018">2018</a>.
 
 kpiTable
- #2757 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 2348 Links: 949">on PLDB</span>
+ #2859 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 2506 Links: 952">on PLDB</span>
  4 Years Old
  0 <span title="Books about or leveraging graphit">Books</span>
  0 <span title="Academic publications about or leveraging graphit">Papers</span>
@@ -56,4 +56,4 @@ pipeTable
  title|titleLink|date|score|comments
  GraphIt: A High-Performance Domain-Specific Language for Graph Analytics|https://news.ycombinator.com/item?id=18499287|11/21/2018|34|2
 
-keyboardNav foundry.html gura.html
+keyboardNav foundry.html hello.html

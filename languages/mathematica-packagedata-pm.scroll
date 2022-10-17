@@ -9,7 +9,7 @@ paragraph
  mathematica-packagedata-pm is a <a href="../lists/languages.html?filter=packageManager">package manager</a> created in <a href="../lists/languages.html?filter=2015">2015</a>.
 
 kpiTable
- #3342 on PLDB
+ #3393 on PLDB
  7 Years Old
 
 
@@ -50,4 +50,4 @@ html
 
 
 
-keyboardNav luarocks-pm.html pacmanconf.html
+keyboardNav luarocks-pm.html panther-lang.html

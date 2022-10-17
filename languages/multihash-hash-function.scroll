@@ -9,7 +9,7 @@ paragraph
  multihash-hash-function is a <a href="../lists/languages.html?filter=hashFunction">hash function</a>.
 
 kpiTable
- #3058 on PLDB
+ #3141 on PLDB
 
 
 
@@ -48,4 +48,4 @@ html
 
 
 
-keyboardNav tutorial-d.html phpstorm-editor.html
+keyboardNav xql-lang.html rlmeta.html

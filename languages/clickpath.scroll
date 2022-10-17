@@ -9,7 +9,7 @@ paragraph
  clickpath is a <a href="../lists/languages.html?filter=queryLanguage">query language</a> created in <a href="../lists/languages.html?filter=2011">2011</a>.
 
 kpiTable
- #2588 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 2867 Links: 949">on PLDB</span>
+ #2689 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 3116 Links: 952">on PLDB</span>
  11 Years Old
  0 <span title="Books about or leveraging clickpath">Books</span>
  0 <span title="Academic publications about or leveraging clickpath">Papers</span>
@@ -55,4 +55,4 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Clickpath query language|https://news.ycombinator.com/item?id=3352368|12/14/2011|25|8
 
-keyboardNav cixl.html descript.html
+keyboardNav cixl.html coral-lang.html

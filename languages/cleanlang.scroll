@@ -9,7 +9,7 @@ paragraph
  cleanlang is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2017">2017</a> by <a href="../lists/creators.html#Santosh_Rajan">Santosh Rajan</a>.
 
 kpiTable
- #2754 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 2348 Links: 949">on PLDB</span>
+ #2854 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 2506 Links: 952">on PLDB</span>
  5 Years Old
  0 <span title="Books about or leveraging cleanlang">Books</span>
  0 <span title="Academic publications about or leveraging cleanlang">Papers</span>
@@ -57,4 +57,4 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: `cleanlang` a clean compile to JavaScript language|https://news.ycombinator.com/item?id=14753846|07/12/2017|2|0
 
-keyboardNav circa.html darklang.html
+keyboardNav circa.html cx.html

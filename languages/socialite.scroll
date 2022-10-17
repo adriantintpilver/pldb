@@ -9,7 +9,7 @@ paragraph
  socialite is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2015">2015</a>.
 
 kpiTable
- #2700 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 2501 Links: 949">on PLDB</span>
+ #2801 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 2662 Links: 952">on PLDB</span>
  7 Years Old
  0 <span title="Books about or leveraging socialite">Books</span>
  0 <span title="Academic publications about or leveraging socialite">Papers</span>
@@ -55,4 +55,4 @@ pipeTable
  title|titleLink|date|score|comments
  Query Language for Large-Scale Graph Analysis|https://news.ycombinator.com/item?id=9316131|04/03/2015|2|0
 
-keyboardNav smithy.html soql.html
+keyboardNav skookumscript.html soql.html

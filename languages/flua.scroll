@@ -9,7 +9,7 @@ paragraph
  flua is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2012">2012</a>.
 
 kpiTable
- #2626 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 2648 Links: 949">on PLDB</span>
+ #2729 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 2830 Links: 952">on PLDB</span>
  10 Years Old
  0 <span title="Books about or leveraging flua">Books</span>
  0 <span title="Academic publications about or leveraging flua">Papers</span>
@@ -55,4 +55,4 @@ pipeTable
  title|titleLink|date|score|comments
  Flua programming language in development (Alpha)|https://news.ycombinator.com/item?id=4208695|07/06/2012|1|0
 
-keyboardNav crack.html flux-lang.html
+keyboardNav edina.html flux-lang.html

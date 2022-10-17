@@ -1,54 +1,54 @@
 Index,Column,Values,Coverage,Example,Description,Source,SourceLink,Definition,DefinitionLink
-1,title,4729,100%,Janus,The official title of the language,,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L2
-2,appeared,4417,93%,2014,What year was the language publicly released and/or announced?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L12
-3,type,4729,100%,pl,Which category in PLDB's subjective ontology does this entity fit into.,,,type.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/type.grammar#L4
-4,pldbId,4729,100%,05ab1e,computed,,,A computed value,
-5,rank,4729,100%,0,computed,,,A computed value,
-6,languageRank,4115,87%,0,computed,,,A computed value,
-7,factCount,4729,100%,6,computed,,,A computed value,
-8,lastActivity,4426,94%,2022,computed,,,A computed value,
-9,exampleCount,4729,100%,0,computed,,,A computed value,
-10,bookCount,4729,100%,0,computed,,,A computed value,
-11,paperCount,4729,100%,0,computed,,,A computed value,
-12,numberOfUsers,4729,100%,0,computed,,,A computed value,
-13,numberOfJobs,4729,100%,0,computed,,,A computed value,
+1,title,4829,100%,Broccoli,The official title of the language,,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L2
+2,appeared,4664,97%,2015,What year was the language publicly released and/or announced?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L12
+3,type,4829,100%,pl,Which category in PLDB's subjective ontology does this entity fit into.,,,type.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/type.grammar#L4
+4,pldbId,4829,100%,.ql,computed,,,A computed value,
+5,rank,4829,100%,0,computed,,,A computed value,
+6,languageRank,4213,87%,0,computed,,,A computed value,
+7,factCount,4829,100%,6,computed,,,A computed value,
+8,lastActivity,4668,97%,2022,computed,,,A computed value,
+9,exampleCount,4829,100%,0,computed,,,A computed value,
+10,bookCount,4829,100%,0,computed,,,A computed value,
+11,paperCount,4829,100%,0,computed,,,A computed value,
+12,numberOfUsers,4829,100%,0,computed,,,A computed value,
+13,numberOfJobs,4829,100%,0,computed,,,A computed value,
 14,githubBigQuery.repos,421,9%,1,How many repos for this language are listed in Google's BigQuery Public GitHub Dataset snapshot.,,,githubBigQuery.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubBigQuery.grammar#L13
-15,creators,876,19%,Niklaus Wirth,"Name(s) of the original creators of the language delimited by "" and """,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L3
-16,githubRepo,784,17%,https://github.com/breck7/note,URL of the official GitHub repo for the project if it hosted there.,github.com,https://github.com,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L1
-17,website,1404,30%,http://berkin.me/rant,URL of the official homepage for the language project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L1
-18,wikipedia,1904,40%,https://en.wikipedia.org/wiki/Apache_Velocity,"URL of the entity on Wikipedia, if and only if it has a page dedicated to it.",wikipedia.org,https://wikipedia.org,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L2
-19,hopl,4729,100%,1664562284000,The matching language on Diarmuid Pigott's Online Historical Encyclopaedia of Programming Languages site (https://hopl.info/),hopl.info,https://hopl.info,hopl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/hopl.grammar#L1
-20,centralPackageRepositoryCount,3032,64%,0,"If you've searched for a CPM for this language and can't find one, set 0 as the count.",,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L6
-21,reference,2021,43%,https://github.com/andrejbauer/plzoo,"A link to more info about this entity. You can add raw links and then auto ""upgrade"" them using some of the importer code.",,,reference.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/reference.grammar#L1
+15,creators,1028,21%,Niklaus Wirth,"Name(s) of the original creators of the language delimited by "" and """,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L3
+16,githubRepo,896,19%,https://github.com/breck7/note,URL of the official GitHub repo for the project if it hosted there.,github.com,https://github.com,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L1
+17,website,1518,31%,http://berkin.me/rant,URL of the official homepage for the language project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L1
+18,wikipedia,1909,40%,https://en.wikipedia.org/wiki/Apache_Velocity,"URL of the entity on Wikipedia, if and only if it has a page dedicated to it.",wikipedia.org,https://wikipedia.org,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L2
+19,hopl,4829,100%,1666028811000,The matching language on Diarmuid Pigott's Online Historical Encyclopaedia of Programming Languages site (https://hopl.info/),hopl.info,https://hopl.info,hopl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/hopl.grammar#L1
+20,centralPackageRepositoryCount,3033,63%,0,"If you've searched for a CPM for this language and can't find one, set 0 as the count.",,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L6
+21,reference,2036,42%,https://github.com/andrejbauer/plzoo,"A link to more info about this entity. You can add raw links and then auto ""upgrade"" them using some of the importer code.",,,reference.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/reference.grammar#L1
 22,hoplId,1815,38%,1681,computed,,,A computed value,
-23,wikipedia.dailyPageViews,1698,36%,-1,How many page views per day does this Wikipedia page get? Useful as a signal for rankings. Available via WP api.,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L32
-24,wikipedia.backlinksCount,1647,35%,9,How many pages on WP link to this page?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L37
-25,wikipedia.pageId,1625,34%,4840,Waht is the internal ID for this entity on WP?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L47
-26,wikipedia.summary,1625,34%,"Blitz BASIC refers to the programming language dialect that was interpreted by the first Blitz compilers, devised by New Zealand-based developer Mark Sibly. Being derived from BASIC, Blitz syntax was designed to be easy to pick up for beginners first learning to program.  The languages are game-programming oriented but are often found general-purpose enough to be used for most types of application. The Blitz language evolved as new products were released, with recent incarnations offering support for more advanced programming techniques such as object-orientation and multi-threading.  This led to the languages losing their BASIC moniker in later years.",What is the text summary of the language from the Wikipedia page?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L18
-27,wikipedia.appeared,1561,33%,1980,When does Wikipedia claim this entity first appeared?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L27
-28,wikipedia.created,1395,29%,2004,When was the *Wikipedia page* for this entity created?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L22
-29,wikipedia.revisionCount,1297,27%,1,How many revisions does this page have?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L42
-30,wikipedia.related,1286,27%,java,What languages does Wikipedia have as related?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L14
-31,fileType,1269,27%,text,What is the file encoding for programs in this language?,,,type.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/type.grammar#L14
-32,isbndb,1092,23%,0,Books about this language from ISBNdb.,isbndb.com,https://isbndb.com,isbndb.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/isbndb.grammar#L1
-33,description,894,19%,A nsfw esolang.,Description of the repo on GitHub.,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L41
-34,domainName,865,18%,wiki.xxiivv.com,If the project website is on its own domain.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L12
-35,originCommunity,838,18%,Microsoft,In what community(ies) did the language first originate?,,,originCommunity.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/originCommunity.grammar#L1
-36,country,773,16%,United States,What country was the language first developed in?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L45
-37,semanticScholar,760,16%,0,Papers about this language from Semantic Scholar.,semanticscholar.org,https://semanticscholar.org,semanticScholar.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/semanticScholar.grammar#L1
-38,githubRepo.updated,714,15%,2022,What year was the last commit made?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L14
-39,githubRepo.created,714,15%,2015,When was the *Github repo* for this entity created?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L10
-40,githubRepo.subscribers,714,15%,1,How many subscribers to the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L25
-41,githubRepo.stars,714,15%,0,How many stars of the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L33
-42,githubRepo.forks,712,15%,0,How many forks of the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L29
-43,githubRepo.firstCommit,711,15%,2019,What year the first commit made in this git repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L18
-44,githubRepo.issues,709,15%,0,How many isses on the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L37
-45,githubRepo.description,703,15%,(Obsolete) Archive of Rant 3.x.,Description of the repo on GitHub.,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L41
+23,wikipedia.dailyPageViews,1699,35%,-1,How many page views per day does this Wikipedia page get? Useful as a signal for rankings. Available via WP api.,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L32
+24,wikipedia.backlinksCount,1648,34%,9,How many pages on WP link to this page?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L37
+25,wikipedia.pageId,1626,34%,4840,Waht is the internal ID for this entity on WP?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L47
+26,wikipedia.summary,1626,34%,"Blitz BASIC refers to the programming language dialect that was interpreted by the first Blitz compilers, devised by New Zealand-based developer Mark Sibly. Being derived from BASIC, Blitz syntax was designed to be easy to pick up for beginners first learning to program.  The languages are game-programming oriented but are often found general-purpose enough to be used for most types of application. The Blitz language evolved as new products were released, with recent incarnations offering support for more advanced programming techniques such as object-orientation and multi-threading.  This led to the languages losing their BASIC moniker in later years.",What is the text summary of the language from the Wikipedia page?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L18
+27,wikipedia.appeared,1561,32%,1980,When does Wikipedia claim this entity first appeared?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L27
+28,wikipedia.created,1396,29%,2004,When was the *Wikipedia page* for this entity created?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L22
+29,wikipedia.revisionCount,1298,27%,1,How many revisions does this page have?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L42
+30,wikipedia.related,1288,27%,java,What languages does Wikipedia have as related?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L14
+31,fileType,1269,26%,text,What is the file encoding for programs in this language?,,,type.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/type.grammar#L14
+32,originCommunity,1235,26%,Microsoft,In what community(ies) did the language first originate?,,,originCommunity.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/originCommunity.grammar#L1
+33,country,1198,25%,United States,What country was the language first developed in?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L45
+34,isbndb,1092,23%,0,Books about this language from ISBNdb.,isbndb.com,https://isbndb.com,isbndb.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/isbndb.grammar#L1
+35,description,927,19%,A nsfw esolang.,Description of the repo on GitHub.,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L41
+36,domainName,875,18%,wiki.xxiivv.com,If the project website is on its own domain.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L12
+37,githubRepo.stars,867,18%,0,How many stars of the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L33
+38,githubRepo.updated,866,18%,2022,What year was the last commit made?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L14
+39,githubRepo.subscribers,866,18%,1,How many subscribers to the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L25
+40,githubRepo.forks,865,18%,0,How many forks of the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L29
+41,githubRepo.created,861,18%,2015,When was the *Github repo* for this entity created?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L10
+42,githubRepo.description,851,18%,(Obsolete) Archive of Rant 3.x.,Description of the repo on GitHub.,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L41
+43,githubRepo.issues,767,16%,0,How many isses on the repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L37
+44,githubRepo.firstCommit,764,16%,2019,What year the first commit made in this git repo?,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L18
+45,semanticScholar,760,16%,0,Papers about this language from Semantic Scholar.,semanticscholar.org,https://semanticscholar.org,semanticScholar.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/semanticScholar.grammar#L1
 46,domainName.registered,620,13%,2016,When was this domain first registered?,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L20
-47,features.hasComments,616,13%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L153
-48,isOpenSource,574,12%,true,Is it an open source project?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L53
-49,features.hasSemanticIndentation,573,12%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L366
-50,features.hasLineComments,538,11%,true,I define a line comment as a character(s) that starts a comment that cannot be stopped except by a line break character or end of file character.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L155
+47,features.hasComments,619,13%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L153
+48,isOpenSource,575,12%,true,Is it an open source project?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L53
+49,features.hasSemanticIndentation,575,12%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L366
+50,features.hasLineComments,542,11%,true,I define a line comment as a character(s) that starts a comment that cannot be stopped except by a line break character or end of file character.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L155
 51,githubLanguage,529,11%,X PixMap,GitHub has a set of supported languages as defined here: https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml,github.com,https://github.com,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L1
 52,githubLanguage.tm_scope,520,11%,none,"The TextMate scope that represents this programming language. This should match one of the scopes listed in the grammars.yml file. Use ""none"" if there is no grammar for this language.",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L30
 53,githubLanguage.ace_mode,520,11%,text,"A String name of the Ace Mode used for highlighting whenever a file is edited. This must match one of the filenames in http://git.io/3XO_Cg. Use ""text"" if a mode does not exist.",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L18
@@ -56,11 +56,11 @@ Index,Column,Values,Coverage,Example,Description,Source,SourceLink,Definition,De
 55,githubLanguage.fileExtensions,519,11%,bf,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
 56,numberOfRepos,491,10%,0,computed,,,A computed value,
 57,githubLanguage.repos,491,10%,0,How many repos for this language does GitHub report?,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L75
-58,lineCommentToken,467,10%,//,Defined as a token that can be placed anywhere on a line and starts a comment that cannot be stopped except by a line break character or end of file.,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L16
+58,lineCommentToken,470,10%,//,Defined as a token that can be placed anywhere on a line and starts a comment that cannot be stopped except by a line break character or end of file.,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L16
 59,domainName.awisRank.2022,446,9%,10763,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L83
 60,githubLanguage.trendingProjectsCount,445,9%,0,How many trending repos for this language does GitHub report?,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L69
-61,leachim6.filepath,428,9%,#/05AB1E,,,,leachim6.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/leachim6.grammar#L7
-62,leachim6,428,9%,05AB1E,A link to this language in leachim6's hello-world project.,github.com/leachim6/hello-world,https://github.com/leachim6/hello-world,leachim6.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/leachim6.grammar#L1
+61,leachim6.filepath,427,9%,#/05AB1E,,,,leachim6.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/leachim6.grammar#L7
+62,leachim6,427,9%,05AB1E,A link to this language in leachim6's hello-world project.,github.com/leachim6/hello-world,https://github.com/leachim6/hello-world,leachim6.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/leachim6.grammar#L1
 63,githubBigQuery.users,421,9%,1,,,,githubBigQuery.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubBigQuery.grammar#L9
 64,githubBigQuery,421,9%,1C Enterprise,Google BigQuery Public Datasets has a dataset with info on GitHub repos: https://cloud.google.com/blog/topics/public-datasets/github-on-bigquery-analyze-all-the-open-source-code,cloud.google.com,https://cloud.google.com,githubBigQuery.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubBigQuery.grammar#L1
 65,linguistGrammarRepo,416,9%,https://github.com/textmate/c.tmbundle,"Linguist is a library used by GitHub to syntax highlight files on GitHub via a grammar. The list of languages supported by Linguist and the grammar package used for each language is listed here: https://github.com/github/linguist/blob/master/vendor/README.md. If Linguist has support for a language, it will have a repo on GitHub. Given a language is supported by Linguist, that is a good indication it has at least 200 unique :user/:repo repositories, according to their docs.",github.com,https://github.com,linguistGrammarRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/linguistGrammarRepo.grammar#L1
@@ -71,261 +71,265 @@ Index,Column,Values,Coverage,Example,Description,Source,SourceLink,Definition,De
 70,wordRank,378,8%,5584,"Some creators use a common English word as their language's name. For these we note how common the word is, where ""the"" is 1.",,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L8
 71,leachim6.fileExtensions,368,8%,m,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
 72,linguistGrammarRepo.sampleCount,365,8%,1,How many language samples in this repo?,,,linguistGrammarRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/linguistGrammarRepo.grammar#L24
-73,features.hasStrings,352,7%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L397
+73,features.hasStrings,354,7%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L397
 74,pygmentsHighlighter.filename,340,7%,templates.py,,,,pygments.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/pygments.grammar#L7
 75,pygmentsHighlighter,340,7%,ABAP,A link to a Pygments syntax highlighting class for this language (https://pygments.org/),pygments.org,https://pygments.org,pygments.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/pygments.grammar#L1
-76,stringToken,331,7%,"""",What token(s) is used to delimite a string?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L34
+76,stringToken,332,7%,"""",What token(s) is used to delimite a string?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L34
 77,rosettaCode,330,7%,ABAP,A link to this language on Rosetta Code - http://www.rosettacode.org/,rosettacode.org,https://rosettacode.org,rosettaCode.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/rosettaCode.grammar#L1
 78,pygmentsHighlighter.fileExtensions,325,7%,j,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
 79,standsFor,317,7%,3D Manufacturing Format,"If the language name is an abbreviation, what does/did it stand for?",,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L13
-80,printToken,313,7%,print,What token(s) is used to print a message?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L28
-81,features.hasPrintDebugging,311,7%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L352
+80,printToken,314,7%,print,What token(s) is used to print a message?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L28
+81,features.hasPrintDebugging,312,6%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L352
 82,twitter,240,5%,https://twitter.com/docker,"Official Twitter handle of the entity, if any.",twitter.com,https://twitter.com,twitter.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/twitter.grammar#L1
-83,features.hasMultiLineComments,233,5%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L158
+83,features.hasMultiLineComments,234,5%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L158
 84,rijuRepl,222,5%,https://riju.codes/abc,A link to try this language on riju.codes,riju.codes,https://riju.codes,rijuRepl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/rijuRepl.grammar#L1
-85,githubLanguage.codemirror_mime_type,216,5%,text/x-csrc,A String name of the file mime type used for highlighting whenever a file is edited. This should match the `mime` associated with the mode from https://git.io/f4SoQ,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L26
-86,githubLanguage.codemirror_mode,216,5%,clike,A String name of the CodeMirror Mode used for highlighting whenever a file is edited. This must match a mode from https://git.io/vi9Fx,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L22
+85,githubLanguage.codemirror_mime_type,216,4%,text/x-csrc,A String name of the file mime type used for highlighting whenever a file is edited. This should match the `mime` associated with the mode from https://git.io/f4SoQ,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L26
+86,githubLanguage.codemirror_mode,216,4%,clike,A String name of the CodeMirror Mode used for highlighting whenever a file is edited. This must match a mode from https://git.io/vi9Fx,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L22
 87,tiobe,204,4%,CIL,Tiobe maintains a well known ranking of programming languages here: https://www.tiobe.com/tiobe-index/,tiobe.com,https://tiobe.com,tiobe.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/tiobe.grammar#L1
-88,multiLineCommentTokens,171,4%,/* */,A comment with a start delimiter and end token (which can be the same) that can span multiple lines.,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L22
-89,fileExtensions,160,3%,n,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
-90,related,157,3%,dot,"What languages are related? This serves as a catch all, and it is better to use a more specific relationship node such as ""supersetOf"".",,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L4
-91,aka,155,3%,BRL,Another name for the language. Entries can have multiple aka lines.,,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L18
-92,helloWorldCollection,149,3%,A Programming Language,Hello world written in this language from http://helloworldcollection.de/,helloworldcollection.de,https://helloworldcollection.de,helloWorldCollection.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/helloWorldCollection.grammar#L1
-93,features.hasIntegers,148,3%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L256
+88,fileExtensions,196,4%,coffee,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
+89,multiLineCommentTokens,172,4%,/* */,A comment with a start delimiter and end token (which can be the same) that can span multiple lines.,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L22
+90,related,163,3%,dot,"What languages are related? This serves as a catch all, and it is better to use a more specific relationship node such as ""supersetOf"".",,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L4
+91,aka,160,3%,BRL,Another name for the language. Entries can have multiple aka lines.,,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L18
+92,features.hasIntegers,151,3%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L256
+93,helloWorldCollection,149,3%,A Programming Language,Hello world written in this language from http://helloworldcollection.de/,helloworldcollection.de,https://helloworldcollection.de,helloWorldCollection.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/helloWorldCollection.grammar#L1
 94,githubLanguage.aliases,142,3%,AFDKO,An Array of additional aliases (implicitly includes name.downcase).,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L45
-95,tryItOnline,128,3%,perl6,A link to try this language on https://tio.run,tio.run,https://tio.run,tryItOnline.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/tryItOnline.grammar#L1
-96,features.hasFloats,128,3%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L204
-97,featureKeyword,119,3%,canDoShebang,Links a feature entry to the related feature keyword in the pldb grammar.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L12
-98,pseudoExample,119,3%,# Hello PLDB,As short an example as possible.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L1
-99,features.hasBooleans,108,2%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L135
-100,wikipedia.fileExtensions,106,2%,n,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
-101,projectEuler.memberCount.2022,105,2%,11,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
-102,projectEuler,105,2%,APL/J/K,Is this language one of the ones listed on https://projecteuler.net/?,projecteuler.net,https://projecteuler.net,projectEuler.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/projectEuler.grammar#L1
-103,features.hasHexadecimals,102,2%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L260
-104,booleanTokens,97,2%,true false,What token(s) is used for true and false?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L46
-105,keywords,93,2%,"! ' '' - -< -<< -> :: ; <- , = => > ? # \* @ [|, |] \ \_ ` {, } {-, -} | ~ as case of class data family instance default deriving do forall foreign hiding if then else import infix infixl infixr let in mdo module newtype proc qualified rec type where",What are all the keywords in this language?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L1
-106,visualParadigm,91,2%,false,"Is this a visual programming thing? Sometimes called ""no code"" or ""low code""?",,,paradigms.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/paradigms.grammar#L5
-107,domainName.awisRank.2017,87,2%,102718,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L83
-108,projectEuler.memberCount.2019,87,2%,9,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
-109,codeMirror,80,2%,apl,A link to a CodeMirror syntax highlighting package for this language (https://github.com/codemirror/codemirror5/tree/master/mode/LANGUAGE),codemirror.net,https://codemirror.net,codemirror.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/codemirror.grammar#L1
-110,subreddit,74,2%,https://reddit.com/r/C_Programming,Url of a subreddit(s) for this language.,reddit.com,https://reddit.com,reddit.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/reddit.grammar#L1
-111,monaco,74,2%,cpp,A link to a Monaco syntax highlighting package for this language.,microsoft.github.io/monaco-editor/,https://microsoft.github.io/monaco-editor/,monaco.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/monaco.grammar#L1
-112,jupyterKernel,73,2%,http://coconut-lang.org/,A link to a Jupyter Kernel for this language.,jupyter.org,https://jupyter.org,jupyter.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/jupyter.grammar#L1
-113,subreddit.memberCount.2022,72,2%,202070,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
-114,githubLanguage.interpreters,71,2%,lua,An Array of associated interpreters,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L41
-115,quineRelay,71,2%,Ada,The Quine Relay project (https://github.com/mame/quine-relay).,github.com/mame/quine-relay,https://github.com/mame/quine-relay,quineRelay.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/quineRelay.grammar#L1
-116,features.hasConditionals,67,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L151
-117,writtenIn,66,1%,cpp,What language is this application written in?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L26
-118,webRepl,66,1%,https://play.rust-lang.org/,An online repl for the project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L6
-119,ubuntuPackage,65,1%,aspectj,The name of an Ubuntu package for the language from https://packages.ubuntu.com/.,ubuntu.com,https://ubuntu.com,ubuntu.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/ubuntu.grammar#L1
-120,antlr,60,1%,https://github.com/afucher/yaip,A link to the ANTLR grammar for this language (https://github.com/antlr/grammars-v4/tree/master/LANGUAGE),antlr.org,https://antlr.org,antlr.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/antlr.grammar#L1
-121,meetup.groupCount,57,1%,11,,,,meetup.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/meetup.grammar#L11
-122,meetup.memberCount,57,1%,69338,,,,meetup.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/meetup.grammar#L7
-123,meetup,57,1%,c,Some languages have active meetup groups on Meetup.com ,meetup.com,https://meetup.com,meetup.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/meetup.grammar#L1
-124,linkedInSkill.2018,57,1%,1021,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
-125,linkedInSkill,57,1%,MongoDB,How many people list this skill on LinkedIn?,linkedin.com,https://linkedin.com,linkedInSkill.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/linkedInSkill.grammar#L1
-126,packageRepository,54,1%,https://www.nuget.org/,URL to the package repository for this language.,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L1
-127,languageServerProtocolProject,54,1%,https://github.com/Alloyed/lua-lsp,A link to a project implementing LSP for this language.,langserver.org,https://langserver.org,languageServerProtocolProject.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/languageServerProtocolProject.grammar#L1
-128,githubLanguage.filenames,53,1%,.Rprofile expr-dist,Filenames commonly associated with the language.,,,fileExtensions.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/fileExtensions.grammar#L7
-129,languageServerProtocolProject.writtenIn,52,1%,typescript,What language is this application written in?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L26
-130,tiobe.currentRank,50,1%,6,What is the current Tiobe rank of this language?,,,tiobe.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/tiobe.grammar#L7
-131,features.hasOctals,50,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L258
-132,packageCount,48,1%,1029249,"How many packages are in the repository? A package is some code with a name and a namespace, shipped as an atomic unit, with an owner(s).",,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L15
-133,indeedJobs.2017,48,1%,1,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
-134,indeedJobs,48,1%,"""common lisp""",How many job descriptions match this query for this language on indeed.com?,indeed.com,https://indeed.com,indeedJobs.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/indeedJobs.grammar#L1
-135,forLanguages,46,1%,c cpp,Which languages is this repository for?,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L27
-136,compilesTo,45,1%,javascript,Which language does this language normally compile to?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L32
-137,features.hasBinaryNumbers,45,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L262
-138,features.hasWhileLoops,44,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L450
-139,features.hasOperatorOverloading,42,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L338
-140,githubLanguage.group,41,1%,Shell,Name of the parent language. Languages in a group are counted in the statistics as the parent language.,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L54
-141,rijuRepl.description,40,1%,"A different take on assembly, with the goal of creating tiny executables",Description of the repo on GitHub.,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L41
-142,subreddit.memberCount.2017,40,1%,8,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
-143,rijuRepl.githubRepo,39,1%,https://gcc.gnu.org/git.html,URL of the official GitHub repo for the project if it hosted there.,github.com,https://github.com,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L1
-144,rijuRepl.fileExtensions,39,1%,C cc cpp cxx c++ h hh hpp hxx h++,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
-145,features.hasAssignment,38,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L236
-146,stackOverflowSurvey.2021.percentageUsing,38,1%,0.01,What percentage of survey respondents report using this language?,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L27
-147,stackOverflowSurvey.2021.fans,38,1%,309,How many developers reported wanting to learn this language.,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L22
-148,stackOverflowSurvey.2021.medianSalary,38,1%,54049,Median salary reported by developers using this language.,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L17
-149,stackOverflowSurvey.2021.users,38,1%,1068,How many developers reported using this language.,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L12
-150,features.hasImports,38,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L246
-151,features.hasFunctions,35,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L460
-152,compilerExplorer,34,1%,Ada,This language's name on https://godbolt.org,godbolt.org,https://godbolt.org,compilerExplorer.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/compilerExplorer.grammar#L1
-153,assignmentToken,32,1%,:=,What token(s) is used for assignment to an identifier?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L40
-154,replit,30,1%,apl,A link to try this langunage on replit.com,replit.com,https://replit.com,replit.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/replit.grammar#L1
-155,rijuRepl.website,29,1%,http://algol68.sourceforge.net/,URL of the official homepage for the language project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L1
-156,pypl,28,1%,Abap,This language's id on https://pypl.github.io,pypl.github.io,https://pypl.github.io,pypl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/pypl.grammar#L1
-157,features.hasClasses,27,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L149
-158,features.hasTypeInference,25,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L399
-159,features.isCaseSensitive,24,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L454
-160,features.hasSwitch,22,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L403
-161,features.hasConstants,22,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L172
-162,features.hasExceptions,21,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L194
-163,features.hasGarbageCollection,21,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L222
-164,features.hasPointers,21,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L67
-165,features.hasDirectives,19,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L234
-166,nativeLanguage,17,0%,Czech,"Nearly all programming languages are written in English, but some aren't. Set this field for the ones that are not.",,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L19
-167,features.hasAccessModifiers,16,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L370
-168,features.hasMacros,16,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L304
-169,esolang,14,0%,https://esolangs.org/wiki/Aheui,A link to this language on https://esolangs.org/,esolangs.org,https://esolangs.org,esolang.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/esolang.grammar#L1
-170,githubLanguage.wrap,14,0%,true,Boolean wrap to enable line wrapping (default: false),,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L36
-171,features.isLisp,14,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L53
-172,features.hasMultipleInheritance,14,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L324
-173,gdbSupport,13,0%,true,Is the language supported by the GNU Debugger?,sourceware.org,https://sourceware.org,gdb.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/gdb.grammar#L1
-174,features.hasScientificNotation,13,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L208
-175,features.hasInheritance,13,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L372
-176,influencedBy,12,0%,antlr,What languages influenced this one?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L11
-177,cheatSheetUrl,12,0%,http://cljs.info/cheatsheet/,A link to a cheat sheet for this language.,,,cheatSheetUrl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/cheatSheetUrl.grammar#L1
-178,features.hasConstructors,12,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L168
-179,packageInstallCount,11,0%,10000000,How many packages have been downloaded?,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L11
-180,announcementMethod,11,0%,paper,How was the language first announced?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L38
-181,firstAnnouncement,11,0%,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.4503&rep=rep1&type=pdf,A url announcing the creation or release of a new language,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L29
-182,features.hasRegularExpressionsSyntaxSugar,11,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L35
-183,features.hasMessagePassing,10,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L284
-184,features.hasFixedPoint,10,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L206
-185,features.hasLists,10,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L288
-186,runsOnVm,9,0%,jvm,What virtual machine(s) does this language run on? ,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L8
-187,features.hasUnitsOfMeasure,9,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L432
-188,features.canWriteToDisk,9,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L69
-189,screenshot,8,0%,https://pldb.com/screenshots/explorer.png,"For visual languages, a picture is worth a thousand words. Provide the URL to the screenshot in the form: https://pldb.com/site/screenshots/[pldbId].png",,,screenshot.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/screenshot.grammar#L1
-190,features.hasHereDocs,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L230
-191,features.hasMultilineStrings,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L322
-192,features.hasZeroBasedNumbering,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L452
-193,features.hasSingleDispatch,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L83
-194,tokenKeyword,7,0%,assignmentToken,Links a feature entry to the related token keyword in the pldb grammar.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L15
-195,subsetOf,7,0%,c,Is this language a subset of another?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L17
-196,gitlabRepo,7,0%,https://gitlab.com/FascinatedBox/lily,URL of the official GitLab repo for the language project.,gitlab.com,https://gitlab.com,gitlabRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/gitlabRepo.grammar#L1
-197,supersetOf,7,0%,json,Is this language a superset of another?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L23
-198,features.hasStaticTyping,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L380
-199,features.hasHomoiconicity,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L37
-200,features.hasPatternMatching,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L220
-201,features.hasCaseInsensitiveIdentifiers,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L336
-202,features.hasBitWiseOperators,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L89
-203,features.hasMixins,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L316
-204,features.hasGotos,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L228
-205,features.hasFunctionComposition,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L389
-206,features.hasMultipleDispatch,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L85
-207,features.hasAsyncAwait,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L45
-208,features.hasThreads,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L393
-209,features.hasIncrementAndDecrementOperators,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L466
-210,features.hasModules,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L456
-211,features.hasIterators,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L264
-212,features.hasInterfaces,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L252
-213,features.hasGenerics,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L77
-214,oldName,5,0%,SuperForth,What is the old name of this language?,,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L23
-215,features.hasMaps,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L434
-216,features.hasDependentTypes,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L176
-217,features.hasNamespaces,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L318
-218,features.canDoShebang,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L91
-219,features.hasVariadicFunctions,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L442
-220,features.hasExplicitTypeCasting,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L244
-221,features.hasFunctionOverloading,5,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L312
-222,features.hasAnonymousFunctions,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L270
-223,features.hasInfixNotation,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L250
-224,features.hasPolymorphism,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L79
-225,features.hasPartialApplication,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L63
-226,packageAuthors,4,0%,13699,How many people contribute packages to this cpm?,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L19
-227,includeToken,4,0%,import,What token(s) is used for including another file?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L52
-228,features.hasUnicodeIdentifiers,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L101
-229,features.hasTypedHoles,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L47
-230,features.hasPipes,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L344
-231,features.hasRangeOperators,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L286
-232,conference,4,0%,https://con.racket-lang.org/ RacketCon,Some languages have a recurring conference(s).,,,conference.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/conference.grammar#L3
-233,features.hasGenerators,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L224
-234,redditDiscussion,3,0%,https://www.reddit.com/r/ProgrammingLanguages/comments/elbt5u/introducing_the_beef_programming_language/,A link to a related discussion on reddit.,reddit.com,https://reddit.com,reddit.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/reddit.grammar#L15
-235,features.hasPostfixNotation,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L348
-236,features.hasDocComments,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L160
-237,documentation,3,0%,https://docs.alumina-lang.net/,Link to the official documentation for a language.,,,documentation.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/documentation.grammar#L1
-238,features.hasPrefixNotation,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L350
-239,features.hasTemplates,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L407
-240,features.hasDisposeBlocks,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L458
-241,features.hasDuckTyping,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L71
-242,features.hasManualMemoryManagement,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L306
-243,features.hasStructs,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L166
-244,features.hasSymbolTables,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L119
-245,funFact,3,0%,https://news.ycombinator.com/item?id=32621392,A text or code block containing a fun or unusual fact about the language.,,,funFact.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/funFact.grammar#L1
-246,features.hasSets,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L436
-247,features.hasDestructuring,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L39
-248,features.hasDefaultParameters,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L111
-249,features.hasMagicGettersAndSetters,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L131
-250,features.mergesWhitespace,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L75
-251,features.hasAssertStatements,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L73
-252,latestRelease,2,0%,2007,The year of the most recent release of the thing.,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L24
-253,successorOf,2,0%,asp,Was this language launched as the success of another?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L14
-254,forkOf,2,0%,nim,What language is this language a fork of?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L29
-255,demoVideo,2,0%,https://www.youtube.com/watch?v=0l2QWH-iV3k,Provide a url of a demo video of the language.,,,demoVideo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/demoVideo.grammar#L1
-256,sourcehutRepo,2,0%,https://git.sr.ht/~jprotopopov/kefir,URL of the official sourcehut repo for the project.,sr.ht,https://sr.ht,sourcehut.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/sourcehut.grammar#L1
-257,renamedTo,2,0%,enso,What is the new name of this language?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L20
-258,features.hasUserDefinedOperators,2,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L55
-259,features.hasTypeAnnotations,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L302
-260,features.hasDecimals,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L298
-261,features.hasNull,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L330
-262,features.hasEnums,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L190
-263,features.hasStreams,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L387
-264,features.hasAlgebraicTypes,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L109
-265,features.hasUnionTypes,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L424
-266,features.hasSingleTypeArrays,2,0%,true,Has an array data structure that only can hold items of the same type.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L415
-267,features.hasRunTimeGuards,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L41
-268,features.hasReservedWords,2,0%,false,Are things like keywords reserved words,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L32
-269,features.hasTraits,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L418
-270,features.hasUnaryOperators,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L59
-271,features.hasMethods,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L462
-272,features.letterFirstIdentifiers,2,0%,true,Must identifiers start with a letter,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L384
-273,features.hasReferences,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L340
-274,features.hasFirstClassFunctions,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L202
-275,features.hasDynamicProperties,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L127
-276,features.hasProcessorRegisters,2,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L123
-277,features.hasMapFunctions,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L61
-278,features.hasAbstractTypes,2,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L43
-279,features.hasLazyEval,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L272
-280,features.hasRefinementTypes,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L49
-281,features.canUseQuestionMarksAsPartOfIdentifier,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L99
-282,features.hasBuiltInRegex,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L141
-283,features.hasArraySlicingSyntax,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L115
-284,features.hasVars,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L444
-285,features.hasMemberVariables,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L310
-286,features.hasTryCatch,1,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L413
-287,features.hasBoundedCheckedArrays,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L137
-288,features.hasSelfOrThisWord,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L364
-289,features.hasRequiredMainFunction,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L360
-290,features.hasLabels,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L268
-291,features.hasDynamicSizedArrays,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L186
-292,features.hasIfElses,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L238
-293,features.hasIfs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L240
-294,features.hasForLoops,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L216
-295,features.hasForEachLoops,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L214
-296,features.canReadCommandLineArgs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L97
-297,features.hasFnArguments,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L210
-298,features.hasVariableAssignment,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L428
-299,features.hasValueReturnedFunctions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L426
-300,features.hasGlobalScope,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L226
-301,features.hasVoidFunctions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L448
-302,features.hasContinue,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L174
-303,features.hasBreak,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L139
-304,features.hasVariableDeclarations,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L430
-305,features.hasMethodOverloading,1,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L314
-306,features.hasSExpressions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L294
-307,features.hasSymbols,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L300
-308,features.hasTimestamps,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L296
-309,features.hasClobs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L292
-310,features.hasBlobs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L290
-311,features.hasEscapeCharacters,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L192
-312,features.hasTriples,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L440
-313,features.hasIds,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L438
-314,features.hasExports,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L248
-315,features.hasTypeParameters,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L382
-316,features.hasStaticMethods,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L391
-317,features.hasZippers,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L170
-318,features.hasMonads,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L51
-319,features.hasImplicitArguments,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L162
-320,features.hasLazyEvaluation,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L274
-321,features.hasVirtualFunctions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L113
-322,features.hasTernaryOperators,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L409
-323,features.hasImplicitTypeConversions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L242
-324,features.hasDynamicTyping,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L188
-325,features.hasMethodChaining,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L145
-326,features.hasSourceMaps,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L117
-327,features.supportsBreakpoints,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L65
-328,features.hasBinaryOperators,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L57
-329,features.hasExpressions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L196
-330,features.hasStatements,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L376
+95,features.hasFloats,130,3%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L204
+96,tryItOnline,129,3%,perl6,A link to try this language on https://tio.run,tio.run,https://tio.run,tryItOnline.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/tryItOnline.grammar#L1
+97,featureKeyword,119,2%,canDoShebang,Links a feature entry to the related feature keyword in the pldb grammar.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L12
+98,pseudoExample,119,2%,# Hello PLDB,As short an example as possible.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L1
+99,keywords,113,2%,macro,What are all the keywords in this language?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L1
+100,features.hasBooleans,110,2%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L135
+101,wikipedia.fileExtensions,106,2%,n,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
+102,indeedJobs,106,2%,"""common lisp""",How many job descriptions match this query for this language on indeed.com?,indeed.com,https://indeed.com,indeedJobs.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/indeedJobs.grammar#L1
+103,projectEuler.memberCount.2022,105,2%,11,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
+104,projectEuler,105,2%,APL/J/K,Is this language one of the ones listed on https://projecteuler.net/?,projecteuler.net,https://projecteuler.net,projectEuler.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/projectEuler.grammar#L1
+105,documentation,104,2%,https://common-lisp.net/documentation,Link to the official documentation for a language.,,,documentation.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/documentation.grammar#L1
+106,features.hasHexadecimals,103,2%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L260
+107,booleanTokens,98,2%,true false,What token(s) is used for true and false?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L46
+108,visualParadigm,92,2%,false,"Is this a visual programming thing? Sometimes called ""no code"" or ""low code""?",,,paradigms.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/paradigms.grammar#L5
+109,domainName.awisRank.2017,87,2%,102718,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L83
+110,projectEuler.memberCount.2019,87,2%,9,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
+111,writtenIn,84,2%,cpp,What language is this application written in?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L26
+112,codeMirror,80,2%,apl,A link to a CodeMirror syntax highlighting package for this language (https://github.com/codemirror/codemirror5/tree/master/mode/LANGUAGE),codemirror.net,https://codemirror.net,codemirror.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/codemirror.grammar#L1
+113,subreddit.memberCount.2022,75,2%,202070,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
+114,subreddit,75,2%,https://reddit.com/r/C_Programming,Url of a subreddit(s) for this language.,reddit.com,https://reddit.com,reddit.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/reddit.grammar#L1
+115,monaco,74,2%,cpp,A link to a Monaco syntax highlighting package for this language.,microsoft.github.io/monaco-editor/,https://microsoft.github.io/monaco-editor/,monaco.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/monaco.grammar#L1
+116,jupyterKernel,73,2%,http://coconut-lang.org/,A link to a Jupyter Kernel for this language.,jupyter.org,https://jupyter.org,jupyter.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/jupyter.grammar#L1
+117,githubLanguage.interpreters,71,1%,lua,An Array of associated interpreters,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L41
+118,quineRelay,71,1%,Ada,The Quine Relay project (https://github.com/mame/quine-relay).,github.com/mame/quine-relay,https://github.com/mame/quine-relay,quineRelay.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/quineRelay.grammar#L1
+119,features.hasConditionals,68,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L151
+120,webRepl,67,1%,https://play.rust-lang.org/,An online repl for the project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L6
+121,ubuntuPackage,65,1%,aspectj,The name of an Ubuntu package for the language from https://packages.ubuntu.com/.,ubuntu.com,https://ubuntu.com,ubuntu.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/ubuntu.grammar#L1
+122,compilesTo,61,1%,javascript,Which language does this language normally compile to?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L32
+123,antlr,60,1%,https://github.com/afucher/yaip,A link to the ANTLR grammar for this language (https://github.com/antlr/grammars-v4/tree/master/LANGUAGE),antlr.org,https://antlr.org,antlr.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/antlr.grammar#L1
+124,indeedJobs.2022,58,1%,0,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
+125,meetup.groupCount,57,1%,11,,,,meetup.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/meetup.grammar#L11
+126,meetup.memberCount,57,1%,69338,,,,meetup.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/meetup.grammar#L7
+127,meetup,57,1%,c,Some languages have active meetup groups on Meetup.com ,meetup.com,https://meetup.com,meetup.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/meetup.grammar#L1
+128,linkedInSkill.2018,57,1%,1021,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
+129,linkedInSkill,57,1%,MongoDB,How many people list this skill on LinkedIn?,linkedin.com,https://linkedin.com,linkedInSkill.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/linkedInSkill.grammar#L1
+130,packageRepository,54,1%,https://www.nuget.org/,URL to the package repository for this language.,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L1
+131,languageServerProtocolProject,54,1%,https://github.com/Alloyed/lua-lsp,A link to a project implementing LSP for this language.,langserver.org,https://langserver.org,languageServerProtocolProject.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/languageServerProtocolProject.grammar#L1
+132,githubLanguage.filenames,53,1%,.Rprofile expr-dist,Filenames commonly associated with the language.,,,fileExtensions.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/fileExtensions.grammar#L7
+133,languageServerProtocolProject.writtenIn,52,1%,typescript,What language is this application written in?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L26
+134,tiobe.currentRank,50,1%,6,What is the current Tiobe rank of this language?,,,tiobe.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/tiobe.grammar#L7
+135,features.hasOctals,50,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L258
+136,packageCount,48,1%,1029249,"How many packages are in the repository? A package is some code with a name and a namespace, shipped as an atomic unit, with an owner(s).",,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L15
+137,indeedJobs.2017,48,1%,1,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
+138,forLanguages,46,1%,c cpp,Which languages is this repository for?,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L27
+139,features.hasBinaryNumbers,45,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L262
+140,features.hasWhileLoops,45,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L450
+141,features.hasOperatorOverloading,42,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L338
+142,githubLanguage.group,41,1%,Shell,Name of the parent language. Languages in a group are counted in the statistics as the parent language.,,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L54
+143,rijuRepl.description,40,1%,"A different take on assembly, with the goal of creating tiny executables",Description of the repo on GitHub.,,,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L41
+144,subreddit.memberCount.2017,40,1%,10666,,,,primitives.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/primitives.grammar#L86
+145,rijuRepl.githubRepo,39,1%,https://gcc.gnu.org/git.html,URL of the official GitHub repo for the project if it hosted there.,github.com,https://github.com,githubRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubRepo.grammar#L1
+146,rijuRepl.fileExtensions,39,1%,C cc cpp cxx c++ h hh hpp hxx h++,"An Array of associated extensions (the first one is considered the primary extension, the others should be listed alphabetically).",,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L14
+147,features.hasImports,39,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L246
+148,features.hasAssignment,38,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L236
+149,stackOverflowSurvey.2021.percentageUsing,38,1%,0.01,What percentage of survey respondents report using this language?,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L27
+150,stackOverflowSurvey.2021.fans,38,1%,1069,How many developers reported wanting to learn this language.,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L22
+151,stackOverflowSurvey.2021.medianSalary,38,1%,54049,Median salary reported by developers using this language.,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L17
+152,stackOverflowSurvey.2021.users,38,1%,1068,How many developers reported using this language.,,,stackOverflowSurvey.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/stackOverflowSurvey.grammar#L12
+153,features.hasFunctions,35,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L460
+154,compilerExplorer,34,1%,Ada,This language's name on https://godbolt.org,godbolt.org,https://godbolt.org,compilerExplorer.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/compilerExplorer.grammar#L1
+155,assignmentToken,33,1%,:=,What token(s) is used for assignment to an identifier?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L40
+156,replit,30,1%,apl,A link to try this langunage on replit.com,replit.com,https://replit.com,replit.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/replit.grammar#L1
+157,rijuRepl.website,29,1%,http://algol68.sourceforge.net/,URL of the official homepage for the language project.,,,website.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/website.grammar#L1
+158,pypl,28,1%,Abap,This language's id on https://pypl.github.io,pypl.github.io,https://pypl.github.io,pypl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/pypl.grammar#L1
+159,features.hasClasses,28,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L149
+160,features.hasTypeInference,25,1%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L399
+161,features.isCaseSensitive,24,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L454
+162,features.hasSwitch,23,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L403
+163,features.hasGarbageCollection,23,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L222
+164,features.hasConstants,22,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L172
+165,features.hasPointers,22,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L67
+166,features.hasExceptions,21,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L194
+167,features.hasDirectives,19,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L234
+168,nativeLanguage,17,0%,Czech,"Nearly all programming languages are written in English, but some aren't. Set this field for the ones that are not.",,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L19
+169,features.hasInheritance,16,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L372
+170,features.hasAccessModifiers,16,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L370
+171,features.hasMacros,16,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L304
+172,esolang,14,0%,https://esolangs.org/wiki/Aheui,A link to this language on https://esolangs.org/,esolangs.org,https://esolangs.org,esolang.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/esolang.grammar#L1
+173,githubLanguage.wrap,14,0%,true,Boolean wrap to enable line wrapping (default: false),,,githubLanguage.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/githubLanguage.grammar#L36
+174,features.isLisp,14,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L53
+175,features.hasMultipleInheritance,14,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L324
+176,gdbSupport,13,0%,true,Is the language supported by the GNU Debugger?,sourceware.org,https://sourceware.org,gdb.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/gdb.grammar#L1
+177,features.hasScientificNotation,13,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L208
+178,features.hasConstructors,13,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L168
+179,influencedBy,12,0%,antlr,What languages influenced this one?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L11
+180,cheatSheetUrl,12,0%,http://cljs.info/cheatsheet/,A link to a cheat sheet for this language.,,,cheatSheetUrl.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/cheatSheetUrl.grammar#L1
+181,features.hasRegularExpressionsSyntaxSugar,12,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L35
+182,packageInstallCount,11,0%,10000000,How many packages have been downloaded?,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L11
+183,announcementMethod,11,0%,paper,How was the language first announced?,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L38
+184,firstAnnouncement,11,0%,http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.32.4503&rep=rep1&type=pdf,A url announcing the creation or release of a new language,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L29
+185,features.hasLists,11,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L288
+186,features.hasMessagePassing,10,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L284
+187,features.hasFixedPoint,10,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L206
+188,screenshot,9,0%,https://commons.wikimedia.org/wiki/File:Zsh_5.8_screenshot.png,"For visual languages, a picture is worth a thousand words. Provide the URL to the screenshot in the form: https://pldb.com/screenshots/[pldbId].png",,,images.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/images.grammar#L1
+189,runsOnVm,9,0%,jvm,What virtual machine(s) does this language run on? ,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L8
+190,features.hasUnitsOfMeasure,9,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L432
+191,features.canWriteToDisk,9,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L69
+192,features.hasMultilineStrings,9,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L322
+193,features.hasStaticTyping,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L380
+194,features.hasHereDocs,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L230
+195,features.hasBitWiseOperators,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L89
+196,features.hasZeroBasedNumbering,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L452
+197,features.hasSingleDispatch,8,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L83
+198,tokenKeyword,7,0%,assignmentToken,Links a feature entry to the related token keyword in the pldb grammar.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L15
+199,subsetOf,7,0%,c,Is this language a subset of another?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L17
+200,supersetOf,7,0%,json,Is this language a superset of another?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L23
+201,gitlabRepo,7,0%,https://gitlab.com/FascinatedBox/lily,URL of the official GitLab repo for the language project.,gitlab.com,https://gitlab.com,gitlabRepo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/gitlabRepo.grammar#L1
+202,oldName,7,0%,luna,What is the old name of this language?,,,name.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/name.grammar#L23
+203,features.hasHomoiconicity,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L37
+204,features.hasPatternMatching,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L220
+205,features.hasCaseInsensitiveIdentifiers,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L336
+206,features.hasIncrementAndDecrementOperators,7,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L466
+207,features.hasNamespaces,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L318
+208,features.hasMixins,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L316
+209,features.hasGotos,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L228
+210,features.hasFunctionComposition,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L389
+211,features.hasFunctionOverloading,6,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L312
+212,features.hasMultipleDispatch,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L85
+213,features.hasAsyncAwait,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L45
+214,features.hasThreads,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L393
+215,features.hasModules,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L456
+216,features.hasIterators,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L264
+217,features.hasInterfaces,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L252
+218,features.hasGenerics,6,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L77
+219,latestRelease,5,0%,2022,The year of the most recent release of the thing.,,,history.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/history.grammar#L24
+220,features.hasMaps,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L434
+221,features.hasDependentTypes,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L176
+222,conference,5,0%,https://binary-tools.net/summit.html,Some languages have a recurring conference(s).,,,conference.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/conference.grammar#L3
+223,features.canDoShebang,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L91
+224,features.hasVariadicFunctions,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L442
+225,features.hasExplicitTypeCasting,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L244
+226,features.hasAnonymousFunctions,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L270
+227,features.hasInfixNotation,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L250
+228,features.hasPolymorphism,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L79
+229,features.hasPartialApplication,5,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L63
+230,packageAuthors,4,0%,13699,How many people contribute packages to this cpm?,,,packages.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/packages.grammar#L19
+231,demoVideo,4,0%,https://www.youtube.com/watch?v=0l2QWH-iV3k,Provide a url of a demo video of the language.,,,demoVideo.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/demoVideo.grammar#L1
+232,renamedTo,4,0%,cish,What is the new name of this language?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L20
+233,includeToken,4,0%,import,What token(s) is used for including another file?,,,featureTokens.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/featureTokens.grammar#L52
+234,features.hasTypedHoles,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L47
+235,features.hasPipes,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L344
+236,features.hasRangeOperators,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L286
+237,features.hasManualMemoryManagement,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L306
+238,features.hasGenerators,4,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L224
+239,redditDiscussion,3,0%,https://www.reddit.com/r/ProgrammingLanguages/comments/elbt5u/introducing_the_beef_programming_language/,A link to a related discussion on reddit.,reddit.com,https://reddit.com,reddit.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/reddit.grammar#L15
+240,features.hasPostfixNotation,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L348
+241,features.hasDocComments,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L160
+242,features.hasPrefixNotation,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L350
+243,features.hasUnicodeIdentifiers,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L101
+244,features.hasTemplates,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L407
+245,features.hasDisposeBlocks,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L458
+246,features.hasDuckTyping,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L71
+247,features.hasStructs,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L166
+248,features.hasSymbolTables,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L119
+249,funFact,3,0%,https://news.ycombinator.com/item?id=32621392,A text or code block containing a fun or unusual fact about the language.,,,funFact.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/funFact.grammar#L1
+250,features.hasSets,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L436
+251,features.hasDestructuring,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L39
+252,features.hasDefaultParameters,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L111
+253,features.hasReferences,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L340
+254,features.hasMagicGettersAndSetters,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L131
+255,features.mergesWhitespace,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L75
+256,features.hasAssertStatements,3,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L73
+257,forkOf,2,0%,nim,What language is this language a fork of?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L29
+258,successorOf,2,0%,asp,Was this language launched as the success of another?,,,relationships.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/relationships.grammar#L14
+259,sourcehutRepo,2,0%,https://git.sr.ht/~jprotopopov/kefir,URL of the official sourcehut repo for the project.,sr.ht,https://sr.ht,sourcehut.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/sourcehut.grammar#L1
+260,features.canUseQuestionMarksAsPartOfIdentifier,2,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L99
+261,features.hasUserDefinedOperators,2,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L55
+262,features.hasTypeAnnotations,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L302
+263,features.hasDecimals,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L298
+264,features.hasNull,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L330
+265,features.hasEnums,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L190
+266,features.hasStreams,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L387
+267,features.hasAlgebraicTypes,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L109
+268,features.hasUnionTypes,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L424
+269,features.hasSingleTypeArrays,2,0%,true,Has an array data structure that only can hold items of the same type.,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L415
+270,features.hasRunTimeGuards,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L41
+271,features.hasReservedWords,2,0%,false,Are things like keywords reserved words,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L32
+272,features.hasTraits,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L418
+273,features.hasUnaryOperators,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L59
+274,features.hasMethods,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L462
+275,features.letterFirstIdentifiers,2,0%,true,Must identifiers start with a letter,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L384
+276,features.hasFirstClassFunctions,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L202
+277,features.hasDynamicProperties,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L127
+278,features.hasProcessorRegisters,2,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L123
+279,features.hasMapFunctions,2,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L61
+280,features.hasAbstractTypes,2,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L43
+281,summary,1,0%,"A data serialization format, designed to be an improvement on JSON. It adds timestamp, bytes and decimal types, as well as multi-line strings.",What is the text summary of the language from the Wikipedia page?,,,wikipedia.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/wikipedia.grammar#L18
+282,features.hasLazyEval,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L272
+283,features.hasRefinementTypes,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L49
+284,photo,1,0%,https://pldb.com/photos/binary-notation.png,"For notations, a picture is worth a thousand words. Provide a photo in the form: https://pldb.com/photos/[pldbId].png",,,images.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/images.grammar#L5
+285,features.hasBuiltInRegex,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L141
+286,features.hasStringConcatOperator,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L395
+287,features.hasArraySlicingSyntax,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L115
+288,features.hasVars,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L444
+289,features.hasMemberVariables,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L310
+290,features.hasTryCatch,1,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L413
+291,features.hasBoundedCheckedArrays,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L137
+292,features.hasSelfOrThisWord,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L364
+293,features.hasRequiredMainFunction,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L360
+294,features.hasLabels,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L268
+295,features.hasDynamicSizedArrays,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L186
+296,features.hasIfElses,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L238
+297,features.hasIfs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L240
+298,features.hasForLoops,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L216
+299,features.hasForEachLoops,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L214
+300,features.canReadCommandLineArgs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L97
+301,features.hasFnArguments,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L210
+302,features.hasVariableAssignment,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L428
+303,features.hasValueReturnedFunctions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L426
+304,features.hasGlobalScope,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L226
+305,features.hasVoidFunctions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L448
+306,features.hasContinue,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L174
+307,features.hasBreak,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L139
+308,features.hasVariableDeclarations,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L430
+309,features.hasMethodOverloading,1,0%,false,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L314
+310,features.hasSExpressions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L294
+311,features.hasSymbols,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L300
+312,features.hasTimestamps,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L296
+313,features.hasClobs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L292
+314,features.hasBlobs,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L290
+315,features.hasEscapeCharacters,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L192
+316,features.hasTriples,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L440
+317,features.hasIds,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L438
+318,features.hasExports,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L248
+319,features.hasTypeParameters,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L382
+320,features.hasStaticMethods,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L391
+321,features.hasZippers,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L170
+322,features.hasMonads,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L51
+323,features.hasImplicitArguments,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L162
+324,features.hasLazyEvaluation,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L274
+325,features.hasVirtualFunctions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L113
+326,features.hasTernaryOperators,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L409
+327,features.hasImplicitTypeConversions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L242
+328,features.hasDynamicTyping,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L188
+329,features.hasMethodChaining,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L145
+330,features.hasSourceMaps,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L117
+331,features.supportsBreakpoints,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L65
+332,features.hasBinaryOperators,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L57
+333,features.hasExpressions,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L196
+334,features.hasStatements,1,0%,true,,,,features.grammar,https://github.com/breck7/pldb/blob/main/database/grammar/features.grammar#L376

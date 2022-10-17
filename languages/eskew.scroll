@@ -9,7 +9,7 @@ paragraph
  eskew is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2019">2019</a>.
 
 kpiTable
- #2243 <span title="TotalRank: 2792 Jobs: 62 Users: 2162 Facts: 1781 Links: 949">on PLDB</span>
+ #2357 <span title="TotalRank: 2920 Jobs: 101 Users: 2300 Facts: 1867 Links: 952">on PLDB</span>
  3 Years Old
  0 <span title="Books about or leveraging eskew">Books</span>
  0 <span title="Academic publications about or leveraging eskew">Papers</span>
@@ -55,4 +55,4 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Eskew – stack inspired language for RacketCon 2019|https://news.ycombinator.com/item?id=20437816|07/15/2019|2|0
 
-keyboardNav lsd.html 8th.html
+keyboardNav lsd.html broccoli-1.html

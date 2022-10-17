@@ -9,7 +9,7 @@ paragraph
  Koka is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2012">2012</a> by <a href="../lists/creators.html#Daan_Leijen">Daan Leijen</a>.
 
 kpiTable
- #446 <span title="TotalRank: 906 Jobs: 62 Users: 289 Facts: 555 Links: 949">on PLDB</span>
+ #448 <span title="TotalRank: 956 Jobs: 101 Users: 303 Facts: 552 Links: 952">on PLDB</span>
  10 Years Old
  2.5k <span title="Crude user estimate from a linear model.">Users</span>
  0 <span title="Books about or leveraging Koka">Books</span>
@@ -28,7 +28,7 @@ paragraph
 list
  - the <a href="https://www.microsoft.com/en-us/research/project/koka/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fprojects%2Fkoka">Koka website</a>
  - Koka is developed on <a href="https://github.com/koka-lang/koka">GitHub</a> and has 2,190 stars
- - Koka first developed in <a href="../lists/originCommunities.html#Microsoft">Microsoft</a>
+ - Koka first developed in <a href="../lists/originCommunities.html#Microsoft_Research">Microsoft Research</a>
  - file extensions for Koka include kk and kki
  - Koka compiles to <a href="c.html">C</a>
  - Koka is written in <a href="haskell.html">Haskell</a>
@@ -136,4 +136,4 @@ treeTable
 
 
 
-keyboardNav vrml.html geojson.html
+keyboardNav hlsl.html asmjs.html

@@ -9,7 +9,7 @@ paragraph
  dbml is a <a href="../lists/languages.html?filter=textMarkup">text markup</a> created in <a href="../lists/languages.html?filter=2019">2019</a>.
 
 kpiTable
- #1564 <span title="TotalRank: 2044 Jobs: 62 Users: 2199 Facts: 1033 Links: 949">on PLDB</span>
+ #1624 <span title="TotalRank: 2114 Jobs: 101 Users: 2330 Facts: 1061 Links: 952">on PLDB</span>
  3 Years Old
  0 <span title="Books about or leveraging dbml">Books</span>
  0 <span title="Academic publications about or leveraging dbml">Papers</span>
@@ -75,4 +75,4 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: DBML – simple DSL language to document database schemas|https://news.ycombinator.com/item?id=20856347|09/02/2019|57|16
 
-keyboardNav bla.html sitemap.html
+keyboardNav d2.html sitemap.html

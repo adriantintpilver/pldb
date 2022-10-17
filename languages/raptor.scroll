@@ -6,10 +6,11 @@ htmlTitle raptor - Visual
 viewSourceUrl https://github.com/breck7/pldb/blob/main/database/things/raptor.pldb
 
 paragraph
- raptor is a <a href="../lists/languages.html?filter=visual">visual</a>.
+ raptor is a <a href="../lists/languages.html?filter=visual">visual</a> created in <a href="../lists/languages.html?filter=2015">2015</a>.
 
 kpiTable
- #2611 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 2867 Links: 949">on PLDB</span>
+ #2750 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 2830 Links: 952">on PLDB</span>
+ 7 Years Old
  0 <span title="Books about or leveraging raptor">Books</span>
  0 <span title="Academic publications about or leveraging raptor">Papers</span>
 
@@ -17,6 +18,7 @@ kpiTable
 
 
 
+openGraphImage image
 image ../screenshots/raptor.png
  caption A screenshot of the <a href="../lists/languages.html?filter=visual">visual language</a> raptor.
 
@@ -51,4 +53,4 @@ html
 
 
 
-keyboardNav passambler.html sepi.html
+keyboardNav ra.html rhoscript.html

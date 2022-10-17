@@ -9,7 +9,7 @@ paragraph
  janet is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2018">2018</a>.
 
 kpiTable
- #1488 <span title="TotalRank: 1963 Jobs: 62 Users: 2199 Facts: 952 Links: 949">on PLDB</span>
+ #1536 <span title="TotalRank: 2031 Jobs: 101 Users: 2330 Facts: 978 Links: 952">on PLDB</span>
  4 Years Old
  0 <span title="Books about or leveraging janet">Books</span>
  0 <span title="Academic publications about or leveraging janet">Papers</span>
@@ -70,4 +70,4 @@ pipeTable
  title|titleLink|date|score|comments
  Janet is a Lisp for scripting, or embedding in other programs|https://news.ycombinator.com/item?id=19171121|02/15/2019|3|0
 
-keyboardNav concurnas.html dcalgol.html
+keyboardNav pod6.html dcalgol.html

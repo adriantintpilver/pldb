@@ -28,7 +28,7 @@ html
  <br>
 
 paragraph
- Languages <b>with</b> References include <a href="javascript.html">JavaScript</a>, <a href="cpp.html">C++</a>
+ Languages <b>with</b> References include <a href="javascript.html">JavaScript</a>, <a href="cpp.html">C++</a>, <a href="dale.html">Dale</a>
 
 
 
@@ -50,4 +50,4 @@ paragraph
 
 
 
-keyboardNav processor-registers-feature.html refinement-type-feature.html
+keyboardNav processor-registers-feature.html runtime-guards-feature.html

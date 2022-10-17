@@ -9,7 +9,7 @@ paragraph
  owen-lang is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2019">2019</a> by <a href="../lists/creators.html#Paw_Møller">Paw Møller</a>.
 
 kpiTable
- #1354 <span title="TotalRank: 1833 Jobs: 62 Users: 2117 Facts: 822 Links: 949">on PLDB</span>
+ #1383 <span title="TotalRank: 1890 Jobs: 101 Users: 2227 Facts: 837 Links: 952">on PLDB</span>
  3 Years Old
  13 <span title="Crude user estimate from a linear model.">Users</span>
  0 <span title="Books about or leveraging owen-lang">Books</span>
@@ -94,4 +94,4 @@ treeTable
 
 
 
-keyboardNav json-graph-spec.html facelets.html
+keyboardNav json-graph-spec.html conceptual.html

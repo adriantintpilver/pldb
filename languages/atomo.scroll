@@ -9,7 +9,7 @@ paragraph
  atomo is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2010">2010</a>.
 
 kpiTable
- #2656 <span title="TotalRank: 3210 Jobs: 62 Users: 2199 Facts: 2501 Links: 949">on PLDB</span>
+ #2760 <span title="TotalRank: 3383 Jobs: 101 Users: 2330 Facts: 2662 Links: 952">on PLDB</span>
  12 Years Old
  0 <span title="Books about or leveraging atomo">Books</span>
  0 <span title="Academic publications about or leveraging atomo">Papers</span>
@@ -56,4 +56,4 @@ pipeTable
  title|titleLink|date|score|comments
  Atomo, the programmer's programmable programming language|https://news.ycombinator.com/item?id=1901268|11/13/2010|162|34
 
-keyboardNav abs.html b3-ir.html
+keyboardNav wdf.html b3-ir.html

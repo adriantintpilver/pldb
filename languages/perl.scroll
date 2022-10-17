@@ -9,7 +9,7 @@ paragraph
  Perl is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=1987">1987</a> by <a href="../lists/creators.html#Larry_Wall">Larry Wall</a>.
 
 kpiTable
- #10 <span title="TotalRank: 27 Jobs: 14 Users: 15 Facts: 7 Links: 6">on PLDB</span>
+ #10 <span title="TotalRank: 28 Jobs: 17 Users: 15 Facts: 7 Links: 6">on PLDB</span>
  35 Years Old
  492.0k <span title="Crude user estimate from a linear model.">Users</span>
  276 <span title="Books about or leveraging Perl">Books</span>
@@ -31,7 +31,9 @@ paragraph
 list
  - the <a href="https://www.perl.org">Perl website</a>
  - the <a href="https://en.wikipedia.org/wiki/Perl">Perl Wikipedia page</a>
+ - the <a href="https://perldoc.perl.org/">Perl docs</a>
  - There are at least 169,830 Perl repos on <a href="https://github.com/search?q=language:Perl">GitHub</a>
+ - Perl first developed in <a href="../lists/originCommunities.html#Unisys">Unisys</a>
  - PLDB estimates there are currently 13k job openings for Perl programmers.
  - file extensions for Perl include pl, pm, t, pod, al, cgi, fcgi, perl, ph, plx and psgi
  - The  Google BigQuery Public Dataset GitHub snapshot shows 69k users using Perl in 102k repos on <a href="https://api.github.com/search/repositories?q=language:Perl">GitHub</a>
@@ -46,11 +48,11 @@ list
  - There is a <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/perl">package</a> for syntax highlighting Perl
  - <a href="languages/pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/perl.py">syntax highlighting</a> for Perl
  - GitHub supports <a href="https://github.com/textmate/perl.tmbundle" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Perl
- - There are 4 <a href="jupyter-notebook.html">Jupyter</a> Kernels for Perl: <a href="https://metacpan.org/release/Devel-IPerl">1</a>,<a href="https://github.com/gabrielash/p6-net-jupyter">2</a>,<a href="https://github.com/timo/iperl6kernel">3</a>,<a href="https://github.com/bduggan/p6-jupyter-kernel">4</a>
+ - PLDB has 4 <a href="jupyter-notebook.html">Jupyter</a> Kernels for Perl: <a href="https://metacpan.org/release/Devel-IPerl">metacpan.org</a>, <a href="https://github.com/gabrielash/p6-net-jupyter">github.com</a>, <a href="https://github.com/timo/iperl6kernel">github.com</a>, <a href="https://github.com/bduggan/p6-jupyter-kernel">github.com</a>
  - There is a <a href="https://www.cpan.org/">central package repository</a> for Perl
  - Indeed.com has 8,795 matches for <a href="https://www.indeed.com/jobs?q=perl engineer">"perl engineer"</a>.
  - <a href="https://www.perl.org">perl.org</a> was registered in 1995
- - See also: <a href="pearl.html">PEARL</a>, <a href="c.html">C</a>, <a href="lisp.html">Lisp</a>, <a href="pascal.html">Pascal</a>, <a href="sed.html">sed</a>, <a href="coffeescript.html">CoffeeScript</a>, <a href="ecmascript.html">ECMAScript</a>, <a href="falcon.html">Falcon</a>, <a href="groovy.html">Groovy</a>, <a href="javascript.html">JavaScript</a>, <a href="julia.html">Julia</a>, <a href="lpc.html">LPC</a>, <a href="perl-6.html">Perl 6</a>, <a href="php.html">PHP</a>, <a href="python.html">Python</a>, <a href="ruby.html">Ruby</a>, <a href="powershell.html">PowerShell</a>, <a href="unix.html">Unix</a>, <a href="bourne-shell.html">Bourne shell</a>, <a href="regex.html">Regular Expressions</a>, <a href="unicode.html">Unicode</a>, <a href="haskell.html">Haskell</a>, <a href="parrot-vm.html">Parrot</a>, <a href="dtrace.html">DTrace</a>, <a href="json.html">JSON</a>, <a href="awk.html">awk</a>, <a href="fortran.html">Fortran</a>, <a href="s-expressions.html">S-expressions</a>, <a href="yacc.html">Yacc</a>, <a href="bison.html">Bison</a>, <a href="sql.html">SQL</a>, <a href="html.html">HTML</a>, <a href="xs.html">XS</a>, <a href="rfc.html">RFC</a>, <a href="jvm.html">JVM</a>, <a href="apl.html">APL</a>, <a href="perl-data-language.html">Perl Data Language</a>, <a href="pod.html">Pod</a>
+ - See also: (38 related languages)<a href="pearl.html">PEARL</a>, <a href="c.html">C</a>, <a href="lisp.html">Lisp</a>, <a href="pascal.html">Pascal</a>, <a href="sed.html">sed</a>, <a href="coffeescript.html">CoffeeScript</a>, <a href="ecmascript.html">ECMAScript</a>, <a href="falcon.html">Falcon</a>, <a href="groovy.html">Groovy</a>, <a href="javascript.html">JavaScript</a>, <a href="julia.html">Julia</a>, <a href="lpc.html">LPC</a>, <a href="perl-6.html">Perl 6</a>, <a href="php.html">PHP</a>, <a href="python.html">Python</a>, <a href="ruby.html">Ruby</a>, <a href="powershell.html">PowerShell</a>, <a href="unix.html">Unix</a>, <a href="bourne-shell.html">Bourne shell</a>, <a href="regex.html">Regular Expressions</a>, <a href="unicode.html">Unicode</a>, <a href="haskell.html">Haskell</a>, <a href="parrot-vm.html">Parrot</a>, <a href="dtrace.html">DTrace</a>, <a href="json.html">JSON</a>, <a href="awk.html">awk</a>, <a href="fortran.html">Fortran</a>, <a href="s-expressions.html">S-expressions</a>, <a href="yacc.html">Yacc</a>, <a href="bison.html">Bison</a>, <a href="sql.html">SQL</a>, <a href="html.html">HTML</a>, <a href="xs.html">XS</a>, <a href="rfc.html">RFC</a>, <a href="jvm.html">JVM</a>, <a href="apl.html">APL</a>, <a href="perl-data-language.html">Perl Data Language</a>, <a href="pod.html">Pod</a>
  - HTML of this page generated by <a href="https://github.com/breck7/pldb/blob/main/code/LanguagePage.ts">LanguagePage.ts</a>
  - <a href="https://build.pldb.com/edit/perl">Improve our Perl file</a>
 
@@ -572,4 +574,4 @@ pipeTable
 
 
 
-keyboardNav xml.html matlab.html
+keyboardNav php.html matlab.html

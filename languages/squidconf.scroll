@@ -6,10 +6,11 @@ htmlTitle SquidConf - Config format
 viewSourceUrl https://github.com/breck7/pldb/blob/main/database/things/squidconf.pldb
 
 paragraph
- SquidConf is a <a href="../lists/languages.html?filter=configFormat">config format</a>.
+ SquidConf is a <a href="../lists/languages.html?filter=configFormat">config format</a> created in <a href="../lists/languages.html?filter=1996">1996</a>.
 
 kpiTable
- #2908 <span title="TotalRank: 3512 Jobs: 62 Users: 2637 Facts: 2501 Links: 949">on PLDB</span>
+ #2955 <span title="TotalRank: 3626 Jobs: 101 Users: 2738 Facts: 2573 Links: 952">on PLDB</span>
+ 26 Years Old
  0 <span title="Books about or leveraging SquidConf">Books</span>
  0 <span title="Academic publications about or leveraging SquidConf">Papers</span>
 
@@ -63,4 +64,4 @@ treeTable
 
 
 
-keyboardNav spade.html statemate.html
+keyboardNav spade.html tao.html

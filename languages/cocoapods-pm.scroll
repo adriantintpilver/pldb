@@ -9,7 +9,7 @@ paragraph
  cocoapods-pm is a <a href="../lists/languages.html?filter=packageManager">package manager</a> created in <a href="../lists/languages.html?filter=2011">2011</a>.
 
 kpiTable
- #2868 on PLDB
+ #3017 on PLDB
  11 Years Old
 
 
@@ -52,4 +52,4 @@ html
 
 
 
-keyboardNav clojars-pm.html converge.html
+keyboardNav clojars-pm.html cpan-pm.html

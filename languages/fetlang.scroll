@@ -9,7 +9,7 @@ paragraph
  fetlang is an <a href="../lists/languages.html?filter=esolang">esolang</a> created in <a href="../lists/languages.html?filter=2017">2017</a>.
 
 kpiTable
- #880 <span title="TotalRank: 1391 Jobs: 62 Users: 380 Facts: 1107 Links: 949">on PLDB</span>
+ #900 <span title="TotalRank: 1452 Jobs: 101 Users: 399 Facts: 1141 Links: 952">on PLDB</span>
  5 Years Old
  1.6k <span title="Crude user estimate from a linear model.">Users</span>
  0 <span title="Books about or leveraging fetlang">Books</span>
@@ -65,4 +65,4 @@ treeTable
 
 
 
-keyboardNav netrexx.html mesa.html
+keyboardNav loomscript.html focus.html

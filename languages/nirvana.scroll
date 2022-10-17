@@ -9,7 +9,7 @@ paragraph
  nirvana is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2018">2018</a>.
 
 kpiTable
- #2302 <span title="TotalRank: 2939 Jobs: 62 Users: 1928 Facts: 1938 Links: 949">on PLDB</span>
+ #2424 <span title="TotalRank: 3078 Jobs: 101 Users: 2025 Facts: 2049 Links: 952">on PLDB</span>
  4 Years Old
  26 <span title="Crude user estimate from a linear model.">Users</span>
  0 <span title="Books about or leveraging nirvana">Books</span>
@@ -56,4 +56,4 @@ pipeTable
  title|titleLink|date|score|comments
  Show HN: Nirvana, a WIP programming language|https://news.ycombinator.com/item?id=18369802|11/03/2018|8|18
 
-keyboardNav mathjax.html hbasic.html
+keyboardNav octune.html hbasic.html

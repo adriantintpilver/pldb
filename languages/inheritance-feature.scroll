@@ -28,7 +28,7 @@ html
  <br>
 
 paragraph
- Languages <b>with</b> Inheritance include <a href="java.html">Java</a>, <a href="javascript.html">JavaScript</a>, <a href="python.html">Python</a>, <a href="php.html">PHP</a>, <a href="scala.html">Scala</a>, <a href="typescript.html">TypeScript</a>, <a href="dart.html">Dart</a>, <a href="coffeescript.html">CoffeeScript</a>, <a href="groovy.html">Groovy</a>, <a href="pug.html">Pug</a>, <a href="systemverilog.html">SystemVerilog</a>, <a href="twig.html">Twig</a>, <a href="apex.html">Apex</a>
+ Languages <b>with</b> Inheritance include <a href="java.html">Java</a>, <a href="javascript.html">JavaScript</a>, <a href="python.html">Python</a>, <a href="php.html">PHP</a>, <a href="scala.html">Scala</a>, <a href="typescript.html">TypeScript</a>, <a href="dart.html">Dart</a>, <a href="coffeescript.html">CoffeeScript</a>, <a href="groovy.html">Groovy</a>, <a href="pug.html">Pug</a>, <a href="systemverilog.html">SystemVerilog</a>, <a href="twig.html">Twig</a>, <a href="apex.html">Apex</a>, <a href="spider.html">spider</a>, <a href="jspp.html">JS++</a>, <a href="spiderbasic.html">SpiderBasic</a>
 
 exampleCodeHeader Example from <a href="javascript.html">JavaScript</a>, <a href="typescript.html">TypeScript</a>:
 
@@ -74,4 +74,4 @@ code
 
 
 
-keyboardNav garbage-collection-feature.html iterators-feature.html
+keyboardNav homoiconic-feature.html iterators-feature.html

@@ -6,10 +6,11 @@ htmlTitle OpenMusic - Pl
 viewSourceUrl https://github.com/breck7/pldb/blob/main/database/things/openmusic.pldb
 
 paragraph
- OpenMusic is a <a href="../lists/languages.html?filter=pl">pl</a>.
+ OpenMusic is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=2019">2019</a>.
 
 kpiTable
- #2998 <span title="TotalRank: 3648 Jobs: 62 Users: 2637 Facts: 3910 Links: 949">on PLDB</span>
+ #3431 <span title="TotalRank: 3791 Jobs: 101 Users: 2738 Facts: 3439 Links: 952">on PLDB</span>
+ 3 Years Old
  0 <span title="Books about or leveraging OpenMusic">Books</span>
  0 <span title="Academic publications about or leveraging OpenMusic">Papers</span>
 
@@ -51,4 +52,4 @@ html
 
 
 
-keyboardNav opencomal.html openspice.html
+keyboardNav opencomal.html ops-3.html

@@ -9,7 +9,7 @@ paragraph
  monodevelop-editor is an <a href="../lists/languages.html?filter=editor">editor</a>.
 
 kpiTable
- #3636 on PLDB
+ #3829 on PLDB
 
 
 
@@ -47,4 +47,4 @@ html
 
 
 
-keyboardNav lazarus-editor.html netbeans-editor.html
+keyboardNav ktexteditor-editor.html resharper-editor.html

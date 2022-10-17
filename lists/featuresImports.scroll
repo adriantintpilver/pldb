@@ -4,53 +4,55 @@ replace COUNT
 replace TABLE
  pipeTable
   feature|featureLink|pseudoExample|yes|no|percentage
-  Comments|../languages/comment-feature.html|# Hello PLDB|609|3|100%
-  Line Comments|../languages/line-comments-feature.html|# Hello PLDB|513|21|96%
-  Strings|../languages/strings-feature.html|"Hello PLDB"|351|0|100%
-  Print() Debugging|../languages/print-debugging-feature.html|print "Hello PLDB"|311|0|100%
-  MultiLine Comments|../languages/multiline-comments-feature.html|/* Hello PLDB */|213|18|92%
-  Integers|../languages/integers-feature.html|80766866|144|0|100%
-  Floats|../languages/floats-feature.html|80766866.0|125|0|100%
-  Booleans|../languages/booleans-feature.html|pldb = true|104|3|97%
-  Hexadecimals|../languages/hexadecimals-feature.html|0x4D06792|101|0|100%
-  Conditionals|../languages/conditionals-feature.html|if (isTrue) printPldb()|64|3|-
-  Semantic Indentation|../languages/semantic-indentation-feature.html|line0 if true line1  print "Hello PLDB"|57|516|10%
+  Comments|../languages/comment-feature.html|# Hello PLDB|612|3|100%
+  Line Comments|../languages/line-comments-feature.html|# Hello PLDB|516|21|96%
+  Strings|../languages/strings-feature.html|"Hello PLDB"|353|0|100%
+  Print() Debugging|../languages/print-debugging-feature.html|print "Hello PLDB"|312|0|100%
+  MultiLine Comments|../languages/multiline-comments-feature.html|/* Hello PLDB */|214|18|92%
+  Integers|../languages/integers-feature.html|80766866|146|0|100%
+  Floats|../languages/floats-feature.html|80766866.0|126|0|100%
+  Booleans|../languages/booleans-feature.html|pldb = true|106|3|97%
+  Hexadecimals|../languages/hexadecimals-feature.html|0x4D06792|102|0|100%
+  Conditionals|../languages/conditionals-feature.html|if (isTrue) printPldb()|65|3|-
+  Semantic Indentation|../languages/semantic-indentation-feature.html|line0 if true line1  print "Hello PLDB"|57|518|10%
   Octals|../languages/octals-feature.html|0o464063622|49|0|-
+  While Loops|../languages/while-loops-feature.html|while (pldb.pop()) loop()|44|1|-
   Binary Literals|../languages/binary-numbers-feature.html|0b100110100000110011110010010|44|0|-
-  While Loops|../languages/while-loops-feature.html|while (pldb.pop()) loop()|43|1|-
   Assignment|../languages/assignment-feature.html|name = "PLDB"|38|0|-
-  File Imports|../languages/file-imports-feature.html|import pldb|36|2|-
+  File Imports|../languages/file-imports-feature.html|import pldb|37|2|-
   Functions|../languages/functions-feature.html|function computePLDBRanks() {}|34|1|-
   Operator Overloading|../languages/operator-overloading-feature.html|def __add__(): doSomethingDifferent()|31|11|-
-  Classes|../languages/classes-feature.html|class PLDBFile {}|27|0|-
-  Switch Statements|../languages/switch-statements-feature.html|switch animal: case dog-buy; case cat-sell;|22|0|-
+  Classes|../languages/classes-feature.html|class PLDBFile {}|28|0|-
+  Switch Statements|../languages/switch-statements-feature.html|switch animal: case dog-buy; case cat-sell;|23|0|-
   Constants|../languages/constants-feature.html|const name = "PLDB"|22|0|-
   Exceptions|../languages/exceptions-feature.html|throw new Error("PLDB uh oh")|21|0|-
+  Pointers|../languages/pointers-feature.html|int *pldb|18|4|-
   Directives|../languages/directives-feature.html|use strict;|18|0|-
-  Pointers|../languages/pointers-feature.html|int *pldb|17|4|-
+  Inheritance|../languages/inheritance-feature.html|class PLDBFile extends File|16|0|-
+  Garbage Collection|../languages/garbage-collection-feature.html|var iDontNeedToFreeThis|16|7|-
   Case Sensitivity|../languages/case-sensitivity-feature.html|pldb != PLDB|16|8|-
-  Garbage Collection|../languages/garbage-collection-feature.html|var iDontNeedToFreeThis|15|6|-
   Access Modifiers|../languages/access-modifiers-feature.html|class PLDBFile { public title }|15|1|-
   Scientific Notation|../languages/scientific-notation-feature.html|8076686.6e1|13|0|-
   Multiple Inheritance|../languages/multiple-inheritance-feature.html|extends parentWhichExtendsSomethingElse|13|1|-
   Macros|../languages/macros-feature.html|#define pldbItems 4000|13|3|-
-  Inheritance|../languages/inheritance-feature.html|class PLDBFile extends File|13|0|-
-  Constructors|../languages/constructor-feature.html|PLDBFile { constructor() {} }|12|0|-
+  Constructors|../languages/constructor-feature.html|PLDBFile { constructor() {} }|13|0|-
+  Lists|../languages/lists-feature.html|[2, 3, 10]|11|0|-
   Message Passing|../languages/message-passing-feature.html|"get pldb"|10|0|-
-  Lists|../languages/lists-feature.html|[2, 3, 10]|10|0|-
+  Static Typing|../languages/static-typing-feature.html|int pldbRank = 100|8|0|-
   Single Dispatch|../languages/single-dispatch-feature.html|person.run()|8|0|-
-  Static Typing|../languages/static-typing-feature.html|int pldbRank = 100|7|0|-
-  Regular Expression Syntax Sugar|../languages/regular-expressions-syntax-sugar-feature.html|/pldb/|7|4|-
+  Regular Expression Syntax Sugar|../languages/regular-expressions-syntax-sugar-feature.html|/pldb/|8|4|-
+  Multiline Strings|../languages/multiline-strings-feature.html|hello = """Hello\nPLDB"""|8|1|-
+  Bitwise Operators|../languages/bitwise-operaters-feature.html|3 == (2 &#124; 1)|8|0|-
   Pattern Matching|../languages/pattern-matching-feature.html|fib 0 = 1; fib 1 = 1|7|0|-
-  Multiline Strings|../languages/multiline-strings-feature.html|hello = """Hello\nPLDB"""|7|1|-
   Homoiconicity|../languages/homoiconic-feature.html|(list ())|7|0|-
   Fixed Point Numbers|../languages/fixed-point-feature.html|80766866.00|7|3|-
-  Bitwise Operators|../languages/bitwise-operaters-feature.html|3 == (2 &#124; 1)|7|0|-
   Threads|../languages/threads-feature.html|thread1(); thread2();|6|0|-
+  Namespaces|../languages/namespace-feature.html|namespace PLDB {}|6|0|-
   Module Pattern|../languages/module-feature.html|module PLDB {}|6|0|-
   Mixins|../languages/mixin-feature.html|extends pldbFile, diskFile|6|0|-
   Iterators|../languages/iterators-feature.html|for lang in pldb()|6|0|-
   Interfaces|../languages/interface-feature.html|interface PLDBFile|6|0|-
+  Increment and decrement operators|../languages/increment-and-decrement-operators-feature.html|i++|6|1|-
   Generics|../languages/generics-feature.html|function identity&lt;T>(arg: T): T|6|0|-
   Function Composition|../languages/function-composition-feature.html|o = (f, g) => x => f(g(x))|6|0|-
   Variadic Functions|../languages/variadic-functions-feature.html|args.map(doSomething)|5|0|-
@@ -58,30 +60,30 @@ replace TABLE
   Type Casting|../languages/type-casting-feature.html|(float)pldbRank;|5|0|-
   Shebang|../languages/shebang-feature.html|#! /run|5|0|-
   Partial Application|../languages/partial-application-feature.html|add5 = num => addNumbers(10, num)|5|0|-
-  Namespaces|../languages/namespace-feature.html|namespace PLDB {}|5|0|-
   Maps|../languages/maps-feature.html|{name: "PLDB"}|5|0|-
   Infix Notation|../languages/infix-notation-feature.html|1 + 2|5|0|-
-  Increment and decrement operators|../languages/increment-and-decrement-operators-feature.html|i++|5|1|-
   Disk Output|../languages/disk-output-feature.html|write("pldb.csv", "...")|5|4|-
   Case Insensitive Identifiers|../languages/case-insensitive-identifiers-feature.html|pLdB = "PLDB"|5|2|-
   Anonymous Functions|../languages/anonymous-functions-feature.html|() => printPldb()|5|0|-
-  Unicode Identifers|../languages/unicode-identifiers-feature.html|δ = 0.00001|4|0|-
   Typed Holes|../languages/typed-holes-feature.html|2 + _ => 2 + [int&#124;float]|4|0|-
   Range Operator|../languages/range-operator-feature.html|1 ... 10|4|0|-
   Polymorphism|../languages/polymorphism-feature.html|a + "b"; 1 + 2|4|1|-
   Pipes|../languages/pipes-feature.html|ls pldb &#124; wc|4|0|-
   Multiple Dispatch|../languages/multiple-dispatch-feature.html|collide_with(x::Spaceship, y::Spaceship)|4|2|-
+  Manual Memory Management|../languages/manual-memory-management-feature.html|malloc(4);|4|0|-
   Gotos|../languages/gotos-feature.html|goto 10|4|2|-
   Generators|../languages/generators-feature.html|yield 2|4|0|-
   Dependent types|../languages/dependent-types-feature.html|pldbSortedList // a list where is sorted is true|4|1|-
   Async Await|../languages/async-await-feature.html|async downloadPldb => await getFiles()|4|2|-
+  Unicode Identifers|../languages/unicode-identifiers-feature.html|δ = 0.00001|3|0|-
   Templates|../languages/templates-feature.html|template TCopy(T) {}|3|0|-
   Symbol Tables|../languages/symbol-table-feature.html|SymbolName&#124;Type&#124;Scope;bar&#124;function,double&#124;extern|3|0|-
   Structs|../languages/structs-feature.html|struct pldbFile { int rank; char *title; };|3|0|-
+  References|../languages/reference-feature.html|fn(objPointer)|3|0|-
   Prefix Notation|../languages/prefix-notation-feature.html|+ 1 2|3|0|-
   Postfix Notation|../languages/postfix-notation-feature.html|2 3 4 + 2 -|3|0|-
   Merges Whitespace|../languages/merges-whitespace-feature.html|result = 1    +    2|3|0|-
-  Manual Memory Management|../languages/manual-memory-management-feature.html|malloc(4);|3|0|-
+  Function Overloading|../languages/function-overloading-feature.html|add(string: str, string2: str)|3|3|-
   Duck Typing|../languages/duck-typing-feature.html|length() // makes me an iterator|3|0|-
   Destructuring|../languages/destructuring-feature.html|{title, rank} = pldbFile|3|0|-
   Default Parameters Pattern|../languages/default-parameters-feature.html|say(message = "Hello PLDB")|3|0|-
@@ -93,12 +95,10 @@ replace TABLE
   Single-Type Arrays|../languages/single-type-arrays-feature.html|const pldbRanks: int[]|2|0|-
   Sets|../languages/sets-feature.html|{"pldb", "PLDB"}|2|1|-
   Runtime Guards|../languages/runtime-guards-feature.html|f x &#124; x > 0 = 1 &#124; otherwise = 0|2|0|-
-  References|../languages/reference-feature.html|fn(objPointer)|2|0|-
   Methods|../languages/methods-feature.html|pldbFile.downloadWebsite()|2|0|-
   Map Functions|../languages/map-functions-feature.html|pldbFiles.map(downloadFilesFn)|2|0|-
   Magic Getters and Setters|../languages/magic-getters-and-setters-feature.html|get(name) => obj[name]|2|1|-
   Letter-first Identifiers|../languages/letter-first-identifiers-feature.html|pldb100 = "OK" // 100pldb = "ERROR"|2|0|-
-  Function Overloading|../languages/function-overloading-feature.html|add(string: str, string2: str)|2|3|-
   First-Class Functions|../languages/first-class-functions-feature.html|[2.1].map(Math.round)|2|0|-
   Dynamic Properties|../languages/dynamic-properties-feature.html|pldb.score = 50|2|0|-
   Dispose Blocks Pattern|../languages/dispose-blocks-feature.html|with pldb: do computeRanks()|2|1|-

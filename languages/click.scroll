@@ -9,7 +9,7 @@ paragraph
  Click is a <a href="../lists/languages.html?filter=pl">pl</a> created in <a href="../lists/languages.html?filter=1999">1999</a>.
 
 kpiTable
- #204 <span title="TotalRank: 500 Jobs: 62 Users: 347 Facts: 91 Links: 949">on PLDB</span>
+ #210 <span title="TotalRank: 556 Jobs: 101 Users: 364 Facts: 91 Links: 952">on PLDB</span>
  23 Years Old
  1.8k <span title="Crude user estimate from a linear model.">Users</span>
  0 <span title="Books about or leveraging Click">Books</span>
@@ -26,6 +26,7 @@ paragraph
  The Click modular router: fast modular packet processing and analysis
 
 list
+ - the <a href="https://github.com/kohler/click/wiki/Language">Click website</a>
  - Click is developed on <a href="https://github.com/kohler/click">GitHub</a> and has 667 stars
  - There are at least 39 Click repos on <a href="https://github.com/search?q=language:Click">GitHub</a>
  - Click first developed in <a href="../lists/originCommunities.html#Massachusetts_Institute_of_Technology">Massachusetts Institute of Technology</a>
@@ -222,4 +223,4 @@ treeTable
 
 
 
-keyboardNav turing.html pug.html
+keyboardNav ibm-rpg.html xbase.html
