@@ -98,6 +98,7 @@ paragraph
 list
  - the <a href="https://shopify.github.io/liquid/">Liquid website</a>
  - Liquid is developed on <a href="https://github.com/Shopify/liquid">GitHub</a> and has 9,596 stars
+ - the <a href="https://shopify.dev/api/liquid">Liquid docs</a>
  - There are at least 11,459 Liquid repos on <a href="https://github.com/search?q=language:Liquid">GitHub</a>
  - PLDB estimates there are currently 325 job openings for Liquid programmers.
  - file extensions for Liquid include liquid
@@ -237,4 +238,4 @@ pipeTable
 
 
 
-keyboardNav ecmascript.html visual-basic.net.html
+keyboardNav ecmascript.html xquery.html

@@ -28,6 +28,7 @@ paragraph
 list
  - the <a href="http://zaa.ch/jison/">Jison website</a>
  - Jison is developed on <a href="https://github.com/zaach/jison">GitHub</a> and has 4,136 stars
+ - the <a href="https://gerhobbelt.github.io/jison/docs/">Jison docs</a>
  - There are at least 0 Jison repos on <a href="https://github.com/search?q=language:Jison">GitHub</a>
  - file extensions for Jison include jison
  - GitHub supports <a href="https://github.com/cdibbs/language-jison" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Jison
@@ -166,4 +167,4 @@ treeTable
 
 
 
-keyboardNav reverse-polish-notation.html agda.html
+keyboardNav reverse-polish-notation.html blitzbasic.html

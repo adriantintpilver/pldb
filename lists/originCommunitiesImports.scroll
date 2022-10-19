@@ -74,8 +74,8 @@ replace TABLE
   <a name='University_of_Tokyo' />University of Tokyo|<a href='../languages/egison.html'>Egison</a> - <a href='../languages/abcl.html'>Actor-Based Concurrent Language</a>|2
   <a name='Honeywell' />Honeywell|<a href='../languages/fact.html'>Fully Automated Compiling Technique</a> - <a href='../languages/business-application-language.html'>Business application language</a>|2
   <a name='University_of_Calgary' />University of Calgary|<a href='../languages/charity.html'>Charity</a> - <a href='../languages/demos.html'>DEMOS</a>|2
-  <a name='RAND' />RAND|<a href='../languages/simscript.html'>SIMSCRIPT</a> - <a href='../languages/relational-data-file.html'>Relational Data File</a>|2
   <a name='Amiga' />Amiga|<a href='../languages/amiga-e.html'>Amiga E</a> - <a href='../languages/amiga-programming-languages.html'>Amigas</a>|2
+  <a name='RAND' />RAND|<a href='../languages/simscript.html'>SIMSCRIPT</a> - <a href='../languages/relational-data-file.html'>Relational Data File</a>|2
   <a name='University_of_Birmingham' />University of Birmingham|<a href='../languages/datafun.html'>datafun</a> - <a href='../languages/atol.html'>ATOL</a>|2
   <a name='CA_Technologies' />CA Technologies|<a href='../languages/easytrieve.html'>Easytrieve</a> - <a href='../languages/ca-telon.html'>CA-Telon</a>|2
   <a name='Health_Level_Seven_International' />Health Level Seven International|<a href='../languages/ccd.html'>Continuity of Care Document</a> - <a href='../languages/cda.html'>Clinical Document Architecture</a>|2
@@ -133,9 +133,9 @@ replace TABLE
   <a name='Khronos_Group' />Khronos Group|<a href='../languages/opencl.html'>OpenCL</a>|1
   <a name='Ecma_International' />Ecma International|<a href='../languages/ecmascript.html'>ECMAScript</a>|1
   <a name='Cray' />Cray|<a href='../languages/chapel.html'>Chapel</a>|1
+  <a name='University_of_San_Francisco' />University of San Francisco|<a href='../languages/antlr.html'>ANTLR</a>|1
   <a name='Imagination_Technologies' />Imagination Technologies|<a href='../languages/mips.html'>MIPS architecture</a>|1
   <a name='MIPS_Technologies' />MIPS Technologies|<a href='../languages/mips.html'>MIPS architecture</a>|1
-  <a name='University_of_San_Francisco' />University of San Francisco|<a href='../languages/antlr.html'>ANTLR</a>|1
   <a name='SAP' />SAP|<a href='../languages/abap.html'>ABAP</a>|1
   <a name='AMPL_Optimization_LLC' />AMPL Optimization LLC|<a href='../languages/ampl.html'>AMPL</a>|1
   <a name='Sentience_Politics' />Sentience Politics|<a href='../languages/brainfuck.html'>Brainfuck</a>|1
@@ -152,9 +152,9 @@ replace TABLE
   <a name='StataCorp' />StataCorp|<a href='../languages/stata.html'>Stata</a>|1
   <a name='Synopsys' />Synopsys|<a href='../languages/systemverilog.html'>SystemVerilog</a>|1
   <a name='_International_Federation_for_Information_Processing' /> International Federation for Information Processing|<a href='../languages/algol-60.html'>ALGOL 60</a>|1
-  <a name='MIT_Instrumentation_Laboratory_and_Charles_Stark_Draper_Laboratory_and_Raytheon' />MIT Instrumentation Laboratory and Charles Stark Draper Laboratory and Raytheon|<a href='../languages/apollo-guidance-computer.html'>AGC</a>|1
   <a name='https://github.com/sagemath' />https://github.com/sagemath|<a href='../languages/cython.html'>Cython</a>|1
   <a name='HashiCorp' />HashiCorp|<a href='../languages/hcl.html'>HCL</a>|1
+  <a name='MIT_Instrumentation_Laboratory_and_Charles_Stark_Draper_Laboratory_and_Raytheon' />MIT Instrumentation Laboratory and Charles Stark Draper Laboratory and Raytheon|<a href='../languages/apollo-guidance-computer.html'>AGC</a>|1
   <a name='Oxford_University' />Oxford University|<a href='../languages/csp.html'>CSP</a>|1
   <a name='API_Blueprint' />API Blueprint|<a href='../languages/api-blueprint.html'>API Blueprint</a>|1
   <a name='Deno_Land_Inc' />Deno Land Inc|<a href='../languages/deno.html'>Deno</a>|1
@@ -185,8 +185,8 @@ replace TABLE
   <a name='https://www.patreon.com/tonsky' />https://www.patreon.com/tonsky|<a href='../languages/datascript.html'>datascript</a>|1
   <a name='Coalson_LLC' />Coalson LLC|<a href='../languages/bbcode.html'>BBCode</a>|1
   <a name='Qualcomm' />Qualcomm|<a href='../languages/hexagon.html'>Qualcomm Hexagon</a>|1
-  <a name='INRIA' />INRIA|<a href='../languages/caml.html'>Caml</a>|1
   <a name='Soviet_space_program' />Soviet space program|<a href='../languages/drakon.html'>DRAKON</a>|1
+  <a name='INRIA' />INRIA|<a href='../languages/caml.html'>Caml</a>|1
   <a name='Ecere_Corporation' />Ecere Corporation|<a href='../languages/ec.html'>eC</a>|1
   <a name='Association_for_Computing_Machinery_and_Gesellschaft_für_Angewandte_Mathematik_und_Mechanik' />Association for Computing Machinery and Gesellschaft für Angewandte Mathematik und Mechanik|<a href='../languages/algol-58.html'>ALGOL 58</a>|1
   <a name='https://github.com/DynamoDS' />https://github.com/DynamoDS|<a href='../languages/dynamo-visual-language.html'>dynamo-visual-language</a>|1
