@@ -28,22 +28,22 @@ html
  <br>
 
 paragraph
- Languages <b>with</b> Shebang include <a href="python.html">Python</a>, <a href="erlang.html">Erlang</a>, <a href="elixir.html">Elixir</a>, <a href="bourne-shell.html">Bourne shell</a>, <a href="boron.html">Boron</a>
+ Languages <b>with</b> Shebang include <a href="python.html">Python</a>, <a href="elixir.html">Elixir</a>, <a href="erlang.html">Erlang</a>, <a href="bourne-shell.html">Bourne shell</a>, <a href="boron.html">Boron</a>
 
 exampleCodeHeader Example from <a href="python.html">Python</a>:
 
 code
  #!/usr/bin/env python
 
-exampleCodeHeader Example from <a href="erlang.html">Erlang</a>:
-
-code
- #!/usr/bin/env escript
-
 exampleCodeHeader Example from <a href="elixir.html">Elixir</a>:
 
 code
  #!/usr/bin/env elixir
+
+exampleCodeHeader Example from <a href="erlang.html">Erlang</a>:
+
+code
+ #!/usr/bin/env escript
 
 exampleCodeHeader Example from <a href="bourne-shell.html">Bourne shell</a>:
 
