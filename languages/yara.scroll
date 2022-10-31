@@ -57,4 +57,4 @@ code
  rule test { condition: true }
  
 
-keyboardNav factor.html b.html
+keyboardNav netlogo.html b.html

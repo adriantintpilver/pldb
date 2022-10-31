@@ -11,7 +11,7 @@ viewSourceUrl https://github.com/breck7/pldb/blob/main/database/things/factor.pl
  
 
 kpiTable
- #284 <span title="TotalRank: 679 Jobs: 101 Users: 329 Facts: 257 Links: 321">on PLDB</span>
+ #283 <span title="TotalRank: 679 Jobs: 101 Users: 329 Facts: 257 Links: 321">on PLDB</span>
  19 Years Old
  2.3k <span title="Crude user estimate from a linear model.">Users</span>
  0 <span title="Books about or leveraging Factor">Books</span>
@@ -120,4 +120,4 @@ pipeTable
  Factor: a dynamic stack-based programming language|https://www.semanticscholar.org/paper/400959dbf2be521e3cc123628e0124afcf3a8caf|Sviatoslav Pestov, Daniel Ehrenberg, Joe Groff|2010|5|1
  An Introduction to Factor|https://www.semanticscholar.org/paper/97fc83ee9c977255abffbfc1b2356f59facd8aa0|Zackery L. Arnold|2017|1|0
 
-keyboardNav s-algol.html yara.html
+keyboardNav s-algol.html netlogo.html

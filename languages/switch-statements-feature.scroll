@@ -47,4 +47,18 @@ code
    (0 (display &quot;Zero!&quot;))
    (else (display &quot;Not an option&quot;)))
 
+exampleCodeHeader Example from <a href="x.html">Jule</a>:
+
+code
+ match X {
+ case Y:
+     outln(&quot;X is Y&quot;)
+ case Z:
+     outln(&quot;X is Z&quot;)
+ case A, B, C:
+     outln(&quot;X is A, B, or C&quot;)
+ default:
+     outln(&quot;X is not Y, Z, A, B and C&quot;)
+ }
+
 keyboardNav zipper-feature.html generics-feature.html

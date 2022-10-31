@@ -52,8 +52,8 @@ exampleCodeHeader Example from <a href="x.html">Jule</a>:
 
 code
  trait Person {
-     fn full_name(self) str
-     fn age(self) byte
+     fn get_full_name(self): str
+     fn get_age(self): byte
  }
 
 keyboardNav ternary-operators-feature.html triple-feature.html

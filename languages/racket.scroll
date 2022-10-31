@@ -213,4 +213,4 @@ pipeTable
  From Macros to DSLs: The Evolution of Racket|https://www.semanticscholar.org/paper/36f5196490c23969ec86f8c693fb04c4d8b7fd8b|Ryan Culpepper and M. Felleisen and M. Flatt and S. Krishnamurthi|2019|2|0
  High-Performance Graphics in Racket with DirectX|https://www.semanticscholar.org/paper/8f722e460468744541fb0819dac316bd7e36e673|A. Bossard|2017|1|0
 
-keyboardNav d.html groovy.html
+keyboardNav d.html graphql.html

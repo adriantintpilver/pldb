@@ -11,7 +11,7 @@ viewSourceUrl https://github.com/breck7/pldb/blob/main/database/things/netlogo.p
  
 
 kpiTable
- #282 <span title="TotalRank: 678 Jobs: 101 Users: 650 Facts: 189 Links: 388">on PLDB</span>
+ #284 <span title="TotalRank: 679 Jobs: 101 Users: 650 Facts: 190 Links: 388">on PLDB</span>
  23 Years Old
  621 <span title="Crude user estimate from a linear model.">Users</span>
  4 <span title="Books about or leveraging NetLogo">Books</span>
@@ -150,4 +150,4 @@ pipeTable
  Мультиагентное моделирование в среде NetLogo|https://www.semanticscholar.org/paper/785b7e13308b0b9e23f5a8fc79436c8daa0ddb2f|Konstantin Nikolaevich Mezencev|2015|1|0
  HLogo: A Haskell STM-Based Parallel Variant of NetLogo|https://www.semanticscholar.org/paper/12db86f6a9cbc5175baf0b7e53424a8f5382b919|Nikolaos Bezirgiannis and I. Prasetya and I. Sakellariou|2016|1|0
 
-keyboardNav dns.html s-algol.html
+keyboardNav factor.html yara.html

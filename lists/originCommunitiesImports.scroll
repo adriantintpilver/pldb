@@ -127,8 +127,8 @@ replace TABLE
   <a name='ETH_Zürich' />ETH Zürich|<a href='../languages/pascal.html'>Pascal</a>|1
   <a name='Tecgraf' />Tecgraf|<a href='../languages/lua.html'>Lua</a>|1
   <a name='GNU' />GNU|<a href='../languages/bash.html'>Bash</a>|1
-  <a name='The_Elixir_Team' />The Elixir Team|<a href='../languages/elixir.html'>Elixir</a>|1
   <a name='Ericsson' />Ericsson|<a href='../languages/erlang.html'>Erlang</a>|1
+  <a name='The_Elixir_Team' />The Elixir Team|<a href='../languages/elixir.html'>Elixir</a>|1
   <a name='Arduino' />Arduino|<a href='../languages/arduino.html'>Arduino</a>|1
   <a name='Macromedia' />Macromedia|<a href='../languages/actionscript.html'>ActionScript</a>|1
   <a name='https://forum.crystal-lang.org/' />https://forum.crystal-lang.org/|<a href='../languages/crystal.html'>Crystal</a>|1
@@ -431,13 +431,13 @@ replace TABLE
   <a name='Vagabondo_Enterprises' />Vagabondo Enterprises|<a href='../languages/ceemac.html'>CEEMAC</a>|1
   <a name='OpenCog_Foundation' />OpenCog Foundation|<a href='../languages/atomese.html'>atomese</a>|1
   <a name='3MF_Consortium' />3MF Consortium|<a href='../languages/3mf.html'>3D Manufacturing Format</a>|1
-  <a name='The_Chicken_Team' />The Chicken Team|<a href='../languages/chicken.html'>CHICKEN</a>|1
   <a name='Anywhere_Software_Ltd' />Anywhere Software Ltd|<a href='../languages/basic4android.html'>Basic4android</a>|1
+  <a name='The_Chicken_Team' />The Chicken Team|<a href='../languages/chicken.html'>CHICKEN</a>|1
   <a name='https://dinechin.org' />https://dinechin.org|<a href='../languages/elfe.html'>ELFE</a>|1
   <a name='https://github.com/spydr06/' />https://github.com/spydr06/|<a href='../languages/cspydr.html'>CSpydr</a>|1
   <a name='National_Institute_of_Standards_and_Technology' />National Institute of Standards and Technology|<a href='../languages/coordinate-format.html'>Matrix Market Coordinate Format</a>|1
-  <a name='Acer_and_others' />Acer and others|<a href='../languages/chinese-basic.html'>Chinese BASIC</a>|1
   <a name='Technical_University_Eindhoven' />Technical University Eindhoven|<a href='../languages/de-bruijn-index-notation.html'>De Bruijn index</a>|1
+  <a name='Acer_and_others' />Acer and others|<a href='../languages/chinese-basic.html'>Chinese BASIC</a>|1
   <a name='ProSapien_LLC' />ProSapien LLC|<a href='../languages/floscript.html'>FloScript</a>|1
   <a name='Cycorp,_Inc' />Cycorp, Inc|<a href='../languages/cycl.html'>CYCL</a>|1
   <a name='Seiko_Epson_Corporation' />Seiko Epson Corporation|<a href='../languages/esc-p.html'>ESC/P</a>|1
@@ -476,9 +476,9 @@ replace TABLE
   <a name='Carnegie_Mellon_University_and_University_of_Southern_California' />Carnegie Mellon University and University of Southern California|<a href='../languages/acme.html'>Acme</a>|1
   <a name='Various_developers' />Various developers|<a href='../languages/aspectcpp.html'>AspectC++</a>|1
   <a name='4D_SAS' />4D SAS|<a href='../languages/4th-dimension.html'>4th Dimension</a>|1
-  <a name='Cambridge_University' />Cambridge University|<a href='../languages/camal.html'>Cambridge Algebra System</a>|1
   <a name='OASIS_Content_Assembly_Technical_Committee' />OASIS Content Assembly Technical Committee|<a href='../languages/cam.html'>Content Assembly Mechanism</a>|1
   <a name='Data_Access_Worldwide' />Data Access Worldwide|<a href='../languages/dataflex.html'>Dataflex</a>|1
+  <a name='Cambridge_University' />Cambridge University|<a href='../languages/camal.html'>Cambridge Algebra System</a>|1
   <a name='dustmop.io' />dustmop.io|<a href='../languages/co2.html'>co2</a>|1
   <a name='http://patrickcollison.com/' />http://patrickcollison.com/|<a href='../languages/croma.html'>Croma</a>|1
   <a name='Cullinane_Corporation' />Cullinane Corporation|<a href='../languages/cullinet.html'>Cullinet</a>|1
@@ -510,13 +510,13 @@ replace TABLE
   <a name='Federal_University_of_Rio_Grande_do_Sul_and_University_of_Massachusetts_Amherst' />Federal University of Rio Grande do Sul and University of Massachusetts Amherst|<a href='../languages/agentspeak.html'>AgentSpeak</a>|1
   <a name='Kevin_Diggins_and_Robert_Wishlaw' />Kevin Diggins and Robert Wishlaw|<a href='../languages/bcx.html'>BCX</a>|1
   <a name='B32_Software' />B32 Software|<a href='../languages/b32-business-basic.html'>B32 Business Basic</a>|1
-  <a name='https://github.com/DJMcMayhem' />https://github.com/DJMcMayhem|<a href='../languages/brain-flak.html'>Brain-Flak</a>|1
   <a name='https://flownet.com' />https://flownet.com|<a href='../languages/ciel.html'>Ciel</a>|1
   <a name='https://github.com/octaspire' />https://github.com/octaspire|<a href='../languages/dern.html'>Dern</a>|1
   <a name='Amazon' />Amazon|<a href='../languages/redshift.html'>Amazon Redshift</a>|1
   <a name='https://github.com/Sarang0218' />https://github.com/Sarang0218|<a href='../languages/fardlang.html'>Fardlang</a>|1
   <a name='Communicative_Machines' />Communicative Machines|<a href='../languages/behavior-markup-language.html'>BML</a>|1
   <a name='Pixar' />Pixar|<a href='../languages/usd.html'>USD</a>|1
+  <a name='https://github.com/DJMcMayhem' />https://github.com/DJMcMayhem|<a href='../languages/brain-flak.html'>Brain-Flak</a>|1
   <a name='ITU_Telecommunication_Standardization_Sector' />ITU Telecommunication Standardization Sector|<a href='../languages/chill.html'>CHILL</a>|1
   <a name='Nederlandse_Omroep_Stichting' />Nederlandse Omroep Stichting|<a href='../languages/basicode.html'>BASICODE</a>|1
   <a name='Gordon_Eubanks' />Gordon Eubanks|<a href='../languages/basic-e.html'>BASIC-E</a>|1
@@ -560,8 +560,6 @@ replace TABLE
   <a name='https://github.com/malisper' />https://github.com/malisper|<a href='../languages/clamp.html'>Common Lisp with Arc Macros and Procedures</a>|1
   <a name='Great_Plains_Software_and_Microsoft' />Great Plains Software and Microsoft|<a href='../languages/dexterity.html'>Dexterity</a>|1
   <a name='Alpha_Microsystems' />Alpha Microsystems|<a href='../languages/alphabasic.html'>AlphaBasic</a>|1
-  <a name='Bolt,_Beranek_and_Newman' />Bolt, Beranek and Newman|<a href='../languages/acornsoft-logo.html'>Acornsoft Logo</a>|1
-  <a name='ALCOR_Group' />ALCOR Group|<a href='../languages/alcor.html'>ALCOR</a>|1
   <a name='https://github.com/mark-hahn/fjs/issues' />https://github.com/mark-hahn/fjs/issues|<a href='../languages/fjs.html'>fjs</a>|1
   <a name='Martin_Capodici' />Martin Capodici|<a href='../languages/badlanguage.html'>badlanguage</a>|1
   <a name='https://nothing-to-say.org/' />https://nothing-to-say.org/|<a href='../languages/blur-markup-language.html'>blur-markup-language</a>|1
@@ -572,6 +570,8 @@ replace TABLE
   <a name='Empirical_Software_Solutions,_LLC' />Empirical Software Solutions, LLC|<a href='../languages/empirical.html'>empirical</a>|1
   <a name='Electronics_&_Telecommunications_Research_Institute' />Electronics & Telecommunications Research Institute|<a href='../languages/bossam.html'>Bossam Rule Language</a>|1
   <a name='IBM_and_Esso_Petroleum_Co._Ltd' />IBM and Esso Petroleum Co. Ltd|<a href='../languages/csl.html'>CSL</a>|1
+  <a name='Bolt,_Beranek_and_Newman' />Bolt, Beranek and Newman|<a href='../languages/acornsoft-logo.html'>Acornsoft Logo</a>|1
+  <a name='ALCOR_Group' />ALCOR Group|<a href='../languages/alcor.html'>ALCOR</a>|1
   <a name='teamisotope' />teamisotope|<a href='../languages/calypso.html'>Calypso</a>|1
   <a name='The_Whitewater_Group' />The Whitewater Group|<a href='../languages/actor.html'>Actor</a>|1
   <a name='Ecological_Society_of_America_and__Knowledge_Network_for_Biocomplexity' />Ecological Society of America and  Knowledge Network for Biocomplexity|<a href='../languages/ecological-metadata-language.html'>Ecological Metadata Language</a>|1

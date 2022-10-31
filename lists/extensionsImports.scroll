@@ -88,8 +88,8 @@ replace TABLE
   Smali|../languages/smali.html|smali|1
   Nim|../languages/nim.html|nim nimcfg nimble nimrod nims|5
   Liquid|../languages/liquid.html|liquid|1
-  Forth|../languages/forth.html|fth 4th f for forth fr frt fs|8
   Visual Basic .NET|../languages/visual-basic.net.html|vb vbhtml|2
+  Forth|../languages/forth.html|fth 4th f for forth fr frt fs|8
   LFE|../languages/lfe.html|lfe hrl|2
   ANTLR|../languages/antlr.html|g4|1
   PureBasic|../languages/purebasic.html|pb pbi|2
@@ -213,9 +213,9 @@ replace TABLE
   Factor|../languages/factor.html|factor|1
   AGC|../languages/apollo-guidance-computer.html|agc|1
   Perl 6|../languages/perl-6.html|6pl 6pm nqp p6 p6l p6m pl pl6 pm pm6 t|11
-  NetLogo|../languages/netlogo.html|nlogo nlogo3d nls|3
   Xojo|../languages/xojo.html|xojo_code xojo_menu xojo_report xojo_script xojo_toolbar xojo_window|6
   Sass|../languages/sass.html|sass scss|2
+  NetLogo|../languages/netlogo.html|nlogo nlogo3d nls|3
   Turtle|../languages/turtle.html|ttl|1
   ClojureScript|../languages/clojurescript.html|cljs|1
   Lex|../languages/lex.html|l lex|2
@@ -247,8 +247,8 @@ replace TABLE
   Pod|../languages/pod.html|pod|1
   Marko|../languages/marko.html|marko|1
   Ninja|../languages/ninja.html|ninja|1
-  TLA|../languages/tla.html|tla|1
   Wolfram Language|../languages/wolfram.html|nb m wl|3
+  TLA|../languages/tla.html|tla|1
   JSON-LD|../languages/json-ld.html|jsonld|1
   Q|../languages/q.html|q|1
   Oxygene|../languages/oxygene.html|oxygene|1

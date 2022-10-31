@@ -59,7 +59,7 @@ code
 exampleCodeHeader Example from <a href="x.html">Jule</a>:
 
 code
- fn average(x: ...f64) f64 {
+ fn average(x: ...f64): f64 {
      // ...
  }
 

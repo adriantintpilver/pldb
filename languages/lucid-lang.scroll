@@ -34,4 +34,4 @@ code
                      (p_ &quot;Hello, attributes!&quot;)
                  td_ &quot;yay!&quot;))
 
-keyboardNav juvix.html newp.html
+keyboardNav juvix.html q-equational-programming-language.html

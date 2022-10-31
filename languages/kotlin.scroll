@@ -47,6 +47,8 @@ monacoEditor kotlin
 - <a href="languages/pygments.html">Pygments</a> supports <a href="https://github.com/pygments/pygments/blob/master/pygments/lexers/jvm.py">syntax highlighting</a> for Kotlin
 - GitHub supports <a href="https://github.com/nishtahir/language-kotlin" title="The package used for syntax highlighting by GitHub Linguist.">syntax highlighting</a> for Kotlin
 - There is 1 <a href="jupyter-notebook.html">Jupyter</a> <a href="https://github.com/ligee/kotlin-jupyter">Kernel</a> for Kotlin
+- Release Notes for Kotlin<a href="https://kotlinlang.org/docs/releases.html">(Link)</a>
+- Events page for Kotlin<a href="https://kotlinlang.org/community/events/">(Link)</a>
 - Kotlin <a href="https://www.ekito.fr/people/wp-content/uploads/2016/11/Kotlin-Cheat-Sheet-by-ekito-1.2.pdf">cheat sheet</a>
 - Indeed.com has 5,276 matches for <a href="https://www.indeed.com/jobs?q=kotlin developer">"kotlin developer"</a>.
 - <a href="https://kotlinlang.org">kotlinlang.org</a> was registered in 2013
@@ -404,4 +406,4 @@ pipeTable
  Why did developers migrate Android Applications from Java to Kotlin|https://www.semanticscholar.org/paper/a1c938db94cfd9b971081b8a7cc0ef677ba8b12d|Matias Martinez and B. Mateus|2020|1|0
  Type-Centric Kotlin Compiler Fuzzing: Preserving Test Program Correctness by Preserving Types|https://www.semanticscholar.org/paper/854efa7220f72835a789b2826eaaa4e4ec3b3c95|Daniil Stepanov and M. Akhin and Mikhail A. Belyaev|2020|1|0
 
-keyboardNav rust.html pascal.html
+keyboardNav powershell.html pascal.html
