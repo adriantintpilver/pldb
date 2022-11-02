@@ -47,4 +47,11 @@ exampleCodeHeader Example from <a href="slope.html">Slope</a>:
 code
  (if positive? 1 -1)
 
+exampleCodeHeader Example from <a href="x.html">Jule</a>:
+
+code
+ if BOOLEAN_EXPRESSION {
+   outln(&quot;&quot;Condition is true)
+ }
+
 keyboardNav classes-feature.html constants-feature.html

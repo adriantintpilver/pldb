@@ -41,4 +41,4 @@ code
    trigger &quot;heaton&quot;  (ctemp &lt; 18.0) [arg ctemp]
    trigger &quot;heatoff&quot; (ctemp &gt; 21.0) [arg ctemp]
 
-keyboardNav beautiful-report-language.html quorum.html
+keyboardNav beautiful-report-language.html lil-pl.html

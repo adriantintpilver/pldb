@@ -43,8 +43,8 @@ replace TABLE
   Mathematica|../languages/mathematica.html|mathematica cdf m ma mt nb nbp wl wlt|9
   Bash|../languages/bash.html|sh bash bats cgi command env fcgi ksh shin tmux tool zsh zsh-theme ebuild eclass exheres-0 exlib .bashrc bashrc .bash_* bash_* zshrc .zshrc .kshrc kshrc PKGBUILD|26
   Elixir|../languages/elixir.html|ex exs eex|3
-  Julia|../languages/julia.html|jl|1
   CUDA|../languages/cuda.html|cu cuh|2
+  Julia|../languages/julia.html|jl|1
   Scheme|../languages/scheme.html|scm ss sch sld sls sps |7
   Dart|../languages/dart.html|dart|1
   Arduino|../languages/arduino.html|ino|1
