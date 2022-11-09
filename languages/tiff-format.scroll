@@ -24,4 +24,4 @@ kpiTable
 html
  <br>
 
-keyboardNav sysml.html commonmark.html
+keyboardNav yorick.html renderscript.html

@@ -32,7 +32,7 @@ monacoEditor mysql
 - MySQL first developed in <a href="../lists/originCommunities.html#Oracle">Oracle</a>
 - PLDB estimates there are currently 47k job openings for MySQL programmers.
 - the MySQL team is on <a href="https://twitter.com/mysql">Twitter</a>
-- Check out the 644 <a href="mysql/">MySQL meetup groups</a> on Meetup.com.
+- Check out the 644 <a href="https://www.meetup.com/topics/mysql/">MySQL meetup groups</a> on Meetup.com.
 - Explore MySQL snippets on <a href="http://www.rosettacode.org/wiki/Category:MySQL">Rosetta Code</a>
 - Here is an <a href="antlr.html">ANTLR</a> <a href="https://github.com/antlr/grammars-v4/tree/master/mysql">grammar</a> for MySQL
 - There is a <a href="monaco.html">Monaco</a> <a href="https://github.com/microsoft/monaco-editor/tree/main/src/basic-languages/mysql">package</a> for syntax highlighting MySQL
@@ -333,4 +333,4 @@ pipeTable
  Indonesian Language Portfolio in Elementary Schools Based on C++, C# and MySQL Server|https://www.semanticscholar.org/paper/bbc1d72cc1724d8fb228c0f9aa2ca0e6f976e23a|Ferril Irham Muzaki|2020|1|0
  Implementation of the Electre (Elimination Et Choix Traduisan La Realite) Method in a Healthy Food Menu Decision Support System for Toddlers in the Sasak Area Health Center Pasisie Using the Php And Databse Mysql Programming Language|https://www.semanticscholar.org/paper/3144f67d9059167b99ac70b9c5fd369e38955e4b|Mardison Mardison and Syafrika Deni Rizki and L. Rani and Agung Ramadhanu and R. Witri|2020|1|0
 
-keyboardNav ruby.html r.html
+keyboardNav fortran.html r.html

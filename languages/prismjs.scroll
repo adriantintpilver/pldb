@@ -28,4 +28,4 @@ kpiTable
 html
  <br>
 
-keyboardNav futhark.html asymptote.html
+keyboardNav wasmer.html futhark.html
