@@ -25,4 +25,4 @@ kpiTable
 html
  <br>
 
-keyboardNav genshi-text.html gns.html
+keyboardNav frtime.html gns.html
