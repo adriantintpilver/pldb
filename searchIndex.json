@@ -18108,6 +18108,12 @@
     "url": "/languages/iso-8601.html"
   },
   {
+    "label": "Rosetta-2",
+    "appeared": 2006,
+    "id": "rosetta-2",
+    "url": "/languages/rosetta-2.html"
+  },
+  {
     "label": "Definite clause grammar",
     "appeared": 1980,
     "id": "definite-clause-grammar-notation",
